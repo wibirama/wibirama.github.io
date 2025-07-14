@@ -22,7 +22,7 @@ repository               : "wibirama/wibirama.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "sunu_pic.png"
   name             : "Dr. Sunu Wibirama"
   pronouns         : # example: "she/her"  
   bio              : "Associate Professor at Universitas Gadjah Mada (Indonesia). Eye Tracking and Intelligent User Experience. Vice Chair, IEEE Indonesia Section."
@@ -40,7 +40,7 @@ author:
   semantic         : # URL
   pubmed           : # URL
   researchgate     : # URL
-  scopus           : # URL
+  scopus           : "https://www.scopus.com/authid/detail.uri?authorId=26654457700"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
@@ -52,16 +52,16 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : sunu_wibirama
+  instagram        : "sunu_wibirama"
   lastfm           : # Username
-  linkedin         : sunuwibirama
+  linkedin         : "sunuwibirama"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
