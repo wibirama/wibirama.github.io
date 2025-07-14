@@ -7,6 +7,8 @@ redirect_from:
   - /resume
 ---
 
+For more recent and updated list of publications, please visit [my Google Scholar profile](https://scholar.google.com/citations?user=xQI5ar8AAAAJ&hl=en&oi=ao)
+
 {% include base_path %}
 
 Journal articles
