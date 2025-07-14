@@ -23,13 +23,13 @@ repository               : "wibirama/wibirama.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Dr. Sunu Wibirama"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "Associate Professor at Universitas Gadjah Mada (Indonesia). Eye Tracking and Intelligent User Experience. Vice Chair, IEEE Indonesia Section."
+  location         : "Yogyakarta, Indonesia"
   employer         : "Universitas Gadjah Mada"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "sunu@ugm.ac.id" 
 
   # Academic websites
   academia         : # URL
