@@ -9,6 +9,11 @@ redirect_from:
 
 <img src="/images/Sunu_2020_NaturalLook_transparent_Web.png" width="200">
 
+**Eye Tracking & Intelligent User Experience**
+Associate Professor (Dr.Eng.) at Universitas Gadjah Mada (Indonesia)
+Vice Chair, IEEE Indonesia Section
+Email: sunu{at}ugm.ac.id | [LinkedIn](https://www.linkedin.com/in/sunuwibirama) | [Google Scholar](https://scholar.google.com/citations?user=xQI5ar8AAAAJ&hl=en&oi=ao) | [Scopus](https://www.scopus.com/authid/detail.uri?authorId=26654457700) | [Youtube Channel](http://youtube.com/wibirama)
+
 Dr. Sunu Wibirama is a renowned academician and practitioners of eye tracking, user experience of digital products, and applied artificial intelligence in South East Asia. He obtained B.Eng. (Bachelor of Engineering) from Universitas Gadjah Mada Indonesia, M.Eng. (Master of Engineering) from King Mongkut’s Institute of Technology Ladkrabang Thailand, and Dr.Eng. (Doctor of Engineering) from Tokai University Japan. Dr. Sunu Wibirama has conducted an eye-tracking-based customer experience research for more than 60 national and international brands of South East Asian, US, Japanese, and Europeans companies with more than 500 participants. He has been invited to investigate visibility of digital media for various business, including transportation, cosmetics, health, kids products, food and drinks, telecommunication, and e-commerce.
 
 Dr. Sunu Wibirama is also an associate professor at the Department of Electrical and Information Engineering, Universitas Gadjah Mada, Indonesia. He served as Indonesian representative for Governing Board of International Association for Pattern Recognition from 2019-2023. He was the Chair of IEEE Systems, Man, and Cybernetics Indonesia Chapter from 2019-2024. He is currently the Vice Chair of IEEE Indonesia Section. As an academician, Dr. Sunu Wibirama has been recognized as the first expert in Indonesia that dedicates more than 10 years of his academic career to work on intelligent user experience engineering field where he investigates and develops various intelligent systems based on eye tracking technology and machine learning.
