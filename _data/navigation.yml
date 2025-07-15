@@ -44,10 +44,10 @@ main:
   - title: "Courses"
     url: /courses/
     children:
-    - title: AI for Research and Education
-      url: https://www.sciencemindlab.id/aiapps
-    - title: AI for Developers
-      url: https://mooc.ugm.ac.id/course-bundle/paket-kecerdasan-buatan/
+      - title: AI for Research and Education
+        url: https://www.sciencemindlab.id/aiapps
+      - title: AI for Developers
+        url: https://mooc.ugm.ac.id/course-bundle/paket-kecerdasan-buatan/
      
   # - title: "CV"
   #   url: /cv-json/
