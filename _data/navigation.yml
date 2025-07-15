@@ -34,13 +34,18 @@ main:
 
   - title: "Awards"
     url: /awards/
-
-  - title: "Partners"
-    url: /partners/
   
-  - title: "Invited Lectures"
+  - title: "Lectures"
     url: /lectures/
 
+  - title: "Services"
+    url: #
+    children: 
+      - title: "Partners"
+        url: /partners/
+      - title: "Technical activities"
+        url: /activities/
+    
   - title: "Courses"
     url: # 
     children:
