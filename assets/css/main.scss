@@ -45,32 +45,33 @@
   position: relative;
 }
 
-.masthead__menu-item .submenu {
+.masthead__menu-item .dropdown {
   display: none;
   position: absolute;
   top: 100%;
   left: 0;
   list-style: none;
-  background: #fff;
+  background: white;
   padding: 0;
   margin: 0;
-  min-width: 200px;
+  min-width: 180px;
   box-shadow: 0 2px 8px rgba(0,0,0,0.15);
-  z-index: 999;
+  z-index: 1000;
 }
 
-.masthead__menu-item .submenu li {
-  width: 100%;
+.masthead__menu-item .dropdown li {
+  display: block;
 }
 
-.masthead__menu-item .submenu li a {
+.masthead__menu-item .dropdown li a {
   display: block;
   padding: 10px;
   color: #333;
   text-decoration: none;
 }
 
-.masthead__menu-item:hover .submenu {
+.masthead__menu-item:hover .dropdown {
   display: block;
 }
+
 
