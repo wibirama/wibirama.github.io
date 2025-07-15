@@ -7,7 +7,9 @@ redirect_from:
   - /resume
 ---
 
-For more recent and updated list of publications, please visit [my Google Scholar profile](https://scholar.google.com/citations?user=xQI5ar8AAAAJ&hl=en&oi=ao)
+All listed publications are aimed to disseminate research and scholarly technical reports. Apart from any fair dealing for the purposes of research, education, or self-study, all publications may only be reproduced, stored or transmitted online, in any form or by any means, with the prior permission in writing of the author. Some papers cannot be found directly in this webpage due to copyright issue. If you would like to read the PDF file, please drop me an email to: sunu{at}ugm.ac.id. 
+
+For more recent and updated list of publications, please visit [my Google Scholar profile](https://scholar.google.com/citations?user=xQI5ar8AAAAJ&hl=en&oi=ao), [my Scopus page](https://www.scopus.com/authid/detail.uri?authorId=26654457700), and [Sinta national metric](https://sinta.kemdikbud.go.id/authors/profile/44334).
 
 {% include base_path %}
 
@@ -58,4 +60,104 @@ International Journals (indexed by Scopus and/or ISI Thomson Reuters)
 22. S.Wibirama and K. Hamamoto, [“3D Gaze Tracking on Stereoscopic Display using Optimized Geometric Method”](http://dx.doi.org/10.1541/ieejeiss.134.345), IEEJ Transactions on Electronics, Information, and Systems, Vol. 134, No. 3, 2014, pp. 345-352. (SJR: 0.154).
 
 23. S. Wibirama,  S. Tungjitkusolmun, and C. Pintavirooj, [“Dual-Camera Acquisition for Accurate Measurement of Three-Dimensional Eye Movements”](http://dx.doi.org/10.1002/tee.21845), Transactions on Electrical and Electronic Engineering, Vol.8(3), 2013, pp. 238-246. (IF: 0.923).
+
+Conference papers
+======
+
+### 2025
+
+1. A. Solaeman, S. A. I. Alfarozi, S. Wibirama, [“A Systematic Literature Review of Transfer Learning for Eye Tracking”](http://dx.doi.org/10.1109/ICADEIS65852.2025.10933367), in 2025 International Conference on Advancement in Data Science, E-learning and Information System: Integrating Data Science and Information System (ICADEIS 2025), February, 3-4, 2025, Bandung, Indonesia.
+
+### 2024
+
+1. S. P. Rahayu, P. Insap Santosa, S. Wibirama, ["A Systematic Review of Gamification and Their Impact on E-commerce Applications"](http://dx.doi.org/10.1109/ICITSI65188.2024.10929338), in 2024 International Conference on Information Technology Systems and Innovation (ICITSI 2024), December, 12, 2024, Bandung, Indonesia. pp. 487-492.  
+
+2. S. Arizi, N. A. Setiawan, S. Wibirama, ["Systematic Literature Review: Implemented Motor Imagery Recognition Methods"](http://dx.doi.org/10.1109/AIMS61812.2024.10512960), in International Conference on Artificial Intelligence and Mechatronics System (AIMS 2024), February, 22-23, 2024, Bandung, Indonesia. 
+
+3. F. A. Faiz, S. Wibirama, H. Nurlatifa, N. A. Setiawan, ["A Systematic Review of Deep Learning Approaches to Visual Saliency Prediction on Webpage Images"](https://dx.doi.org/10.1109/ICICoS62600.2024.10636890), in International Conference on Informatics and Computational Sciences 2024, July, 17-18, 2024, Semarang, Indonesia. pp. 479-484. 
+
+4. H. L. Sobrian, S. A. I. Alfarozi, A. E. Permansari, S. Wibirama, ["Optimizing Temporal Convolutional Network for Eye Movement Classification Using Tree-Structured Parzen Estimator"](https://doi.org/10.1109/IC3INA64086.2024.10732444), in International Conference on Computer, Control, Informatics and its Applications (IC3INA 2024), October, 9-10, 2024, Bandung, Indonesia. pp. 133-138.
+
+5. I. Agustian, S. Wibirama, I. Ardiyanto, I. N. Anggraini, P. Noviansyah, ["Weed Detection Based on Fine-Tuned YOLOv5"](https://doi.org/10.1109/ICITEE62483.2024.10809000), in the 16th International Conference on Information Technology and Electrical Engineering (ICITEE 2024), October, 23-25, 2024, Bali, Indonesia. pp. 153-158.  
+
+6. H. Nurlatifa, T. B. Adji, I. Ardiyanto, A. G. P. Sidhawara, S. Wibirama, ["Time Series Classification for Eye Tracking-Based Visual-Verbal Learning Style"](http://dx.doi.org/10.1109/ICITEE62483.2024.10808574), in the 16th International Conference on Information Technology and Electrical Engineering (ICITEE 2024), October, 23-25, 2024, Bali, Indonesia. pp. 91-96.
+   
+7. I. Mustamir, A. Nasikun, S. Wibirama, ["Design and Implementation of a Dashboard System for Monitoring Key Performance Indicators in Digitalized Higher Education Institutions: A Case Study"](http://dx.doi.org/10.1109/ICITEE62483.2024.10808311), in the 16th International Conference on Information Technology and Electrical Engineering (ICITEE 2024), October, 23-25, 2024, Bali, Indonesia. pp. 392-397.
+
+8. N. F. Qinthari, S. Wibirama, R. Ferdiana, ["A Systematic Literature Review of Personalized Gamification Research Methods"](http://dx.doi.org/10.1109/ISITDI62380.2024.10795944), in 2nd International Symposium on Information Technology and Digital Innovation: Creative Trends in Sustainable Information Technology Design and Innovation (ISITDI 2024), July, 24-25, 2024, Bukittinggi, Indonesia. pp: 185-190.
+   
+9. D. A. R. Kurniawan, S. A. I. Alfarozi, S., Wibirama, G. D. Putra, ["Anomaly Detection in Billing Data Using Voting Classification"](http://dx.doi.org/10.1109/SCOReD64708.2024.10872639), in 2024 IEEE 22nd Student Conference on Research and Development (SCOReD 2024), December, 19-20, 2024. Selangor, Malaysia. pp. 410-415.
+
+10. A.H. Fathiya, A. Nasikun, S. Wibirama, ["Impact of Gender and Information Layout on User Experience and Gaze Patterns in a Fitness and Diet App Interface"](https://dx.doi.org/10.1109/iBioMed62485.2024.10875820), in Proceedings of the 5th International Conference on Biomedical Engineering 2024 (IBIOMED 2024), October, 23-25, 2024. Bali, Indonesia. pp. 175-180. 
+
+11. M. O. B. Wibowo, A. E. Permanasari, S. A. I. Alfarozi, S. Wibirama, ["Leveraging Bidirectional Long Short-Term Memory with Bayesian Optimization for Accurate Eye Movement Classification"](https://dx.doi.org/10.1109/iBioMed62485.2024.10875813), in Proceedings of the 5th International Conference on Biomedical Engineering 2024 (IBIOMED 2024), October, 23-25, 2024. Bali, Indonesia.
+
+12. I. G. Wicaksana, I. M. Marantika, W. A. Budikusuma, R. Wicaksono, S. Wibirama, ["A Systematic Literature Review of Artificial Intelligence on Medical Imaging: COVID-19 and Tuberculosis Classification"](http://dx.doi.org/10.1109/iBioMed62485.2024.10875821),  in Proceedings of the 5th International Conference on Biomedical Engineering 2024 (IBIOMED 2024), October, 23-25, 2024. Bali, Indonesia. 
+
+
+### 2023
+
+1. A.R. Suhari, R. Hartanto, S. Wibirama, "Improving Performance of Eye Movements Classification Using CNN-Transformer Model," in 2023 International Conference on Advanced Mechatronics, Intelligent Manufacture and Industrial Automation (ICAMIMIA), November, 14-15, 2023, Lombok, Indonesia. pp. 751-756. doi: https://dx.doi.org/10.1109/ICAMIMIA60881.2023.10427836    
+
+2. A.Q. Zulfa, P.I. Santosa, and S. Wibirama, "Kansei Engineering Implementation to Enhance Emotional Design of Learning Media," in 2023 9th International Conference on Science and Technology (ICST) - Computer and Information Technology Symposium, November, 1-2, 2023, Yogyakarta, Indonesia.
+
+3. N. Tiandini, B.S. Hantono, S. Wibirama, "User Experience Evaluation Method for Mobile Learning," in 2023 9th International Conference on Science and Technology (ICST) - Computer and Information Technology Symposium, November, 1-2, 2023, Yogyakarta, Indonesia.
+
+4. A.H. Fristiana, S.A.I. Alfarozi, A.E. Permanasari, and S. Wibirama, "Improving Deep Learning-Based Eye Movements Classification Using Bayesian Optimization", in 2023 IEEE International Biomedical Instrumentation and Technology Conference (IBITeC), November, 9-10, 2023, Yogyakarta, Indonesia. pp. 197-202. doi: https://doi.org/10.1109/IBITeC59006.2023.10390966
+
+5. A. Damayanti, S.S. Kusumawardani, and S. Wibirama, "A Review of Learners’ Self-Regulated Learning Behavior Analysis Using Log-Data Traces", in 2023 IEEE 12th International Conference on Engineering Education (ICEED), August, 29-30, 2023, Kuala Lumpur, Malaysia, pp.90-95. doi: https://doi.org/10.1109/ICEED59801.2023.10264050 
+
+6. E.A.H. Talib, P.I. Santosa, and S. Wibirama, "Evaluation of Learning Management Systems Based on Usability and User Experience: A Systematic Literature Review", in 2023 International Seminar on Intelligent Technology and Its Applications (ISITIA 2023), July, 26-27, 2023, Surabaya, Indonesia pp. 691 - 696. doi: http://dx.doi.org/10.1109/ISITIA59021.2023.10221015  
+
+### 2022 
+
+1. M.O.B. Wibowo, S.A.I. Alfarozi, and S. Wibirama, "Pros and Cons of Fixation and Smooth Pursuit Interaction in Assistive Technology: A Review," in 2022 8th International Conference on Science and Technology (ICST 2022), September, 8-7, 2022, Yogyakarta, Indonesia. doi: https://doi.org/10.1109/ICST56971.2022.10136260
+
+2. D.A. Suryakusuma, Harisno, A. Wicaksono, R. Hartanto, and S. Wibirama, "Implementing Design Thinking in The Development of Digital Signage User Interface for Public Health Education", in 2022 8th International Conference on Science and Technology (ICST 2022), September, 8-7, 2022, Yogyakarta, Indonesia. doi: https://doi.org/10.1109/ICST56971.2022.10136306  
+
+3. A.D. Ramadhan, A.E. Permanasari, S. Wibirama, "Gamification Opportunity in Augmented Reality-Based Learning Media: A Review." in 2022 2nd International Conference on Intelligent Cybernetics Technology and Applications (ICICyTA 2022), December, 15-16, 2022, Bandung, Indonesia pp. 117-122. doi: http://dx.doi.org/10.1109/ICICyTA57421.2022.10037922  
+
+4. Z. Athiyah, A.E. Permanasari, S. Wibirama, "Development of Gamification Design on Heart Anatomy Learning Media," in 2022 4th International Conference on Biomedical Engineering (IBIOMED 2022), October, 18-19, 2022, Yogyakarta, Indonesia, pp. 97-102. doi: http://dx.doi.org/10.1109/IBIOMED56408.2022.9987817 
+
+5. M.A. Fikri, I.K.A. Putra, S. Wibirama, "Object Selection Using LSTM Networks for Spontaneous Gaze-Based Interaction," in 2022 14th International Conference on Information Technology and Electrical Engineering (ICITEE 2022), October, 18-19, 2022, Yogyakarta, Indonesia, pp. 270-274. doi: http://dx.doi.org/10.1109/ICITEE56407.2022.9954104
+
+6. I.K.A Putra, M.A. Fikri, S.A.I Alfarozi, S. Wibirama, "Review of Feature Extraction on Video-Oculography (VOG) and Electro-Oculography (EOG) Signals," in 2022 IEEE International Conference on Cybernetics and Computational Intelligence (CyberneticsCom), June, 16-18, 2022, Malang, Indonesia, 2022, pp. 416-420. doi: https://doi.org/10.1109/CyberneticsCom55287.2022.9865308 
+
+### 2021
+
+1. M.A.R. Azhar, H.A. Nugroho, S. Wibirama, "The Study of Multivariable Autoregression Methods to Forecast Infectious Diseases," in 2021 IEEE 5th International Conference on Information Technology, Information Systems and Electrical Engineering (ICITISEE), November, 24-25, 2021, Purwokerto, Indonesia, 2021, pp. 83-88. doi: https://doi.org/10.1109/ICITISEE53823.2021.9655881
+
+2. H. Nurlatifa, R. Hartanto, S. Wibirama, "Spontaneous Gaze-Based Application Using 2D Correlation and Velocity Threshold Identification," in 2021 5th International Conference on Informatics and Computational Sciences (ICICoS), November 24-25, 2021, Semarang, Indonesia, 2021, pp. 75-80. doi: https://doi.org/10.1109/ICICoS53627.2021.9651863
+
+3. M.A. Fikri, P.I. Santosa, S. Wibirama, "A Review on Opportunities and Challenges of Machine Learning and Deep Learning for Eye Movements Classification," in 2021 IEEE International Biomedical Instrumentation and Technology Conference (IBITeC), October 20-21, 2021, Yogyakarta, Indonesia, 2021, pp.65-70. doi: https://doi.org/10.1109/IBITeC53045.2021.9649434
+
+4. V.P. Waroy, S. Wibirama, I. Ardiyanto, "Research on Skewed License Plate Recognition: A Systematic Literature Review," in 2021 International Conference on Computer System, Information Technology, and Electrical Engineering (COSITE), October 20-21, 2021, Banda Aceh, Indonesia, 2021, pp. 1-6. doi: https://doi.org/10.1109/COSITE52651.2021.9649535
+
+5. A. Nuraini, S. Murnani, I. Ardiyanto, S. Wibirama, "Machine Learning in Gaze-Based Interaction: A Survey of Eye Movements Events Detection," in 2021 International Conference on Computer System, Information Technology, and Electrical Engineering (COSITE), October 20-21, 2021, Banda Aceh, Indonesia, 2021, pp. 150-155. doi: https://doi.org/10.1109/COSITE52651.2021.9649646
+
+6. A.E. Permanasari, B. Ratna P.S., F. Yanuar S., M.P. Maharani, S. Wibirama, J. Yunus, "Design of Gamification for Anatomy Learning Media," in 2021 13th International Conference on Information Technology and Electrical Engineering (ICITEE), October 14-15, 2021, Chiang Mai, Thailand, 2021, pp.122-126. doi: https://doi.org/10.1109/ICITEE53064.2021.9611852
+
+7. S. Wibirama, S. Murnani, I.D. Sukowati, R. Ferdiana, "Gaze-Controlled Digital Signage for Public Health Education during Covid-19 Pandemic", in 2021 9th International Conference on Information and Communication Technology (ICoICT), August 3-5, 2021, Yogyakarta, Indonesia, 2021. https://doi.org/10.1109/ICoICT52021.2021.9527531
+
+8. M. Rakhman, A.E. Permanasari, S. Wibirama, I.S. Sakkinah, "Observing Impression of User Experience for Learning Cranium Anatomy", in 2021 8th International Conference on Computer and Communication Engineering (ICCCE), June 22-23, 2021, Kuala Lumpur, Malaysia, 2021. https://doi.org/10.1109/ICCCE50029.2021.9467189
+
+9. H.Z. Wijasena, R. Ferdiana, S. Wibirama, "A Survey of Emotion Recognition using Physiological Signal in Wearable Devices", in 2021 International Conference on Artificial Intelligence and Mechatronics Systems (AIMS), April 28-30, 2021, Bandung, Indonesia, 2021. https://doi.org/10.1109/AIMS52415.2021.9466092
+
+### 2020
+
+1. Wibirama, A.G.P. Sidhawara, G.L. Pritalia, T. B. Adji, "A Survey of Learning Style Detection Method using Eye-Tracking and Machine Learning in Multimedia Learning", in 2020 International Symposium on Community-centric Systems (CcS), September 23-26, 2020, Tokyo, Japan, 2020. https://doi.org/10.1109/CcS49175.2020.9231447
+
+2. S. Wibirama, S. Murnani, N.A. Setiawan, H. Nurlatifa, "A Survey of Event Detection Methods for Eye Movements Classification in Smooth-Pursuit-Based Interactive Applications", in 2020 International Symposium on Community-centric Systems (CcS), September 23-26, 2020, Tokyo, Japan, 2020. https://doi.org/10.1109/CcS49175.2020.9231384
+
+3. S. Wibirama, S. Murnani, and N.A. Setiawan, "Spontaneous Gaze Gesture Interaction in the Presence of Noises and Various Types of Eye Movements",  in Symposium on Eye Tracking Research and Applications (ETRA ’20 Short Papers), June 2–5, 2020, Stuttgart, Germany. ACM, New York, NY, USA, 5 pages, 2020. https://doi.org/10.1145/3379156.3391363
+
+4. M. Alfaroby E., S. Wibirama, I. Ardiyanto, "Accuracy Improvement of Object Selection in Gaze Gesture Application using Deep Learning", in  Proceedings of the 12th International Conference on Information Technology and Electrical Engineering (ICITEE 2020), October 6-8, 2020, Yogyakarta, Indonesia, 2020. https://dx.doi.org/10.1109/ICITEE49829.2020.9271771.
+
+5. G.L. Pritalia; S. Wibirama; T.B. Adji; S. Kusrohmaniah, "Classification of Learning Styles in Multimedia Learning Using Eye-Tracking and Machine Learning," in 2020 FORTEI-International Conference on Electrical Engineering (FORTEI-ICEE), Bandung 23 September 2020, pp. 145-150 .doi: https://doi.org/10.1109/FORTEI-ICEE50915.2020.9249875
+
+6. Hudalizaman, I. Ardiyanto, S. Wibirama, "Network Architecture Search Method on Hyperparameter Optimization of Convolutional Neural Network: Review," in Proceedings of 2020 6th International Conference on Science and Technology (ICST), Yogyakarta 7-8 September 2020, doi: https://doi.org/10.1109/ICST50505.2020.9732800
+
+7. A.G.P. Sidhawara, S. Wibirama, T.B. Adji, S. Kusrohmaniah, "Classification of Visual-Verbal Cognitive Style in Multimedia Learning using Eye-Tracking and Machine Learning," in Proceedings of 2020 6th International Conference on Science and Technology (ICST), Yogyakarta 7-8 September 2020, doi: https://doi.org/10.1109/ICST50505.2020.9732880
+
+8. H. Nurlatifa, S. Wibirama, R. Hartanto, "A Study of Event Detection Methods in Eye-Tracking Based on Its Properties," in Proceedings of 2020 6th International Conference on Science and Technology (ICST), Yogyakarta 7-8 September 2020, doi: https://doi.org/10.1109/ICST50505.2020.9732839
 
