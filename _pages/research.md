@@ -15,6 +15,7 @@ Our research interests span from developing an interactive user interface with e
   
 
 ### Intelligent touchless technology
+------------------------------------
 
 [![CoviDisplay first version (2021)](https://img.youtube.com/vi/ApU1MEdvkPI/0.jpg)](https://www.youtube.com/watch?v=ApU1MEdvkPI)
 
@@ -24,6 +25,7 @@ We are working on developing an intelligent touchless technology based on artifi
 
 
 ### Eye tracking and AI for predicting cognitive style
+------------------------------------------------------
 
 <img src="/images/et_cognitive.png" width="600">
 <figcaption>Eye tracking patterns resemble different cognitive style: Sequential vs. Global.</figcaption>
