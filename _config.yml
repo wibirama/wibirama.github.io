@@ -22,7 +22,7 @@ repository               : "wibirama/wibirama.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "sunu_pic.png"
+  # avatar           : "sunu_pic.png"
   name             : "Dr. Sunu Wibirama"
   pronouns         : # example: "she/her"  
   bio              : "Associate Professor at Universitas Gadjah Mada (Indonesia) | Eye Tracking and Intelligent User Experience | Vice Chair, IEEE Indonesia Section."
