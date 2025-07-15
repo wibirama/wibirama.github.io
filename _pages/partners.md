@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-## INDUSTRIAL PARTNERS
+## Industrial partners
 
 * G-Force CRC LLC, San Diego, CA, United States of America.
 * Six Capital Pte. Ltd., Singapore.
@@ -16,7 +16,7 @@ redirect_from:
 * PT. Telekomunikasi Indonesia, Jakarta, Indonesia.
 * PT. Bank Negara Indonesia (Persero) Tbk., Indonesia.
 
-## ACADEMIC PARTNERS
+## Academic partners
 
 * Tokai University, Japan.
 * Shibaura Institute of Technology, Japan.
