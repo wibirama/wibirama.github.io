@@ -33,7 +33,7 @@ redirect_from:
 * Universiti Teknologi Petronas, Malaysia.
 * Universiti Teknologi Malaysia, Malaysia.
 
-### What we do with our partners?  
+### What do we do with our partners?  
 
 <img src="/images/data_collecting.png" width="500">
 <figcaption>Fig. 1. Data collection using eye tracking</figcaption>
