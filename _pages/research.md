@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-Our research interests span from developing an interactive user interface with eye tracking to using eye tracker as a diagnostic tool for various applications, such as cognitive style classification. Our latest research interest has been implementing deep learning technology for various gaze-based applications such as:
+Our research areas span from developing an interactive user interface with eye tracking to using eye tracker as a diagnostic tool for various applications, such as cognitive style classification. Our latest research interest has been implementing deep learning technology for various gaze-based applications such as:
 - Spontaneous gaze-based interaction.
 - Time-series eye movement data classification
 - Predicting cognitive style of online learners and online shoppers through visual attention.
@@ -31,4 +31,12 @@ We are working on developing an intelligent touchless technology based on artifi
 <figcaption>Eye tracking patterns resemble different cognitive style: Sequential vs. Global.</figcaption>
 
 Personalized education works best when we understand how people learn. One key factor is cognitive style — whether someone prefers a sequential or a global learning approach. Eye tracking has shown promise in distinguishing these styles, but past research relied on proprietary software and oversimplified the data, often boiling down each person’s gaze patterns into a single row of numbers. That left a lot of insight untapped. Our team set out to change that by leveraging the full richness of time-series eye tracking data and applying advanced machine learning. We explored how different data window sizes and individual features impact classification accuracy, using the well-established Felder–Silverman Learning Style Model as our framework. In our latest study, 68 participants viewed a learning object for 60 seconds while we recorded their eye movements. The results were striking: XGBoost, trained on time-series data, achieved a classification accuracy of 99.65%—outperforming other state-of-the-art models. Even more impressive, the system could accurately classify cognitive style in just 5 seconds of gaze data, still hitting 99.67% accuracy. We also found that just three features—displacement, and horizontal and vertical gaze coordinates—were enough to reach this performance. These findings highlight the power of time-series eye tracking to uncover subtle patterns that can drive adaptive, data-driven learning. This work lays the groundwork for smarter, more responsive educational tools that adapt to how each of us learns best.
+
+
+### Teaching machines to see what we read: improving saliency prediction in text-heavy images
+
+<img src="/images/et_saliency.png" width="600">
+<figcaption>Saliency prediction using deep learning in text-heavy images</figcaption>
+
+Most saliency prediction models are trained on natural scenes, learning to spot what draws our eyes — shapes, colors, and objects in the wild. But throw text into the mix, and things get tricky. That’s because our brains process words very differently from visual features like trees or faces. Our research team set out to bridge this gap by fine-tuning saliency models to better handle text-rich images — in particular, movie posters, which often combine striking visuals and bold typography. Building on two state-of-the-art models, GSGNet and TranSalNet, we trained them to recognize the unique ways people look at text in context. The results were impressive: our fine-tuned models significantly outperformed the originals at predicting where viewers focus on movie posters. The experiments also revealed that text elements in images follow learnable patterns — opening the door to smarter, more accurate saliency predictions in advertising, design, and beyond.
 
