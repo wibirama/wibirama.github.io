@@ -15,7 +15,24 @@ For more recent and updated list of publications, please visit [my Google Schola
 
 Journal articles
 ======
-International Journals (indexed by Scopus and/or ISI Thomson Reuters)
+
+#### Manuscript under review 
+1. Herlina, S. Murnani, A.A.A. Rizqi, R. Hartanto, I. Ardiyanto, and **S. Wibirama**, "A Robust Object Selection Technique for Spontaneous Gaze-Based Interaction", submitted to IEEE Access (IF: 3.6).
+
+2. H.L. Sobrian, A.H. Fristiana, S.A.I. Alfarozi, A.E. Permanasari, and **S. Wibirama**, "Reinforcement Learning in Time Series Analysis: A Systematic Literature Review", submitted to ASEAN Journal on Science and Technology for Development (AJSTD) (SJR: 0.262).
+
+3. **S. Wibirama**, S. A. I, Alfarozi, A. R. Suhari, A. H. Fristiana, H. Nurlatifa, and P. I. Santosa, "Classification of Cognitive Load Using Deep Learning Based on Eye Movement Indices", submitted to IEEE Access (IF: 3.6).
+
+4. H. Nurlatifa, T. B. Adji, I. Ardiyanto, G. L. Pritalia, and **S. Wibirama**, "Time Series Classification on Eye Tracking for Identification of Sequential-Global Cognitive Styles", submitted to IEEE Access (IF: 3.6).
+   
+6. **S. Wibirama**, M. A. Fikri, A. K. Aliza, S. A. I, Alfarozi, N. A. Setiawan, A. R. Suhari, and S. Kusrohmaniah, "Cognitive Load Classification During Online Shopping Using Deep Learning on Time Series Eye Movement Indices", submitted to IEEE Access (IF: 3.6).
+   
+7. A. R. Suhari, **S. Wibirama**, K. A. Nugraha, A. H. Fristiana, and K. Woraratpanya, "Efficient Deep Learning Model with Fine-Tuning and Knowledge Distillation for Eye Movement Classification", submitted to Ain Shams Engineering Journal (IF: 5.9).
+   
+8. K. A. Nugraha, **S. Wibirama**, and I. Ardiyanto, "Fine-tuning Deep Neural Network for Saliency Prediction in Movie Poster Documents", submitted ICT Express (IF: 4.2).  
+   
+
+#### Published articles in international journals (indexed by Scopus and/or ISI Thomson Reuters)
 
 1. D.S.E. Atmaja, **S. Wibirama**, M.K. Herliansyah, A. Sudiarso, ["Comparative Study of Integral Image and Normalized Cross-Correlation Methods for Defect Detection on Batik Klowong Fabric"](https://doi.org/10.1016/j.rineng.2025.104124),  Results in Engineering, Vol. 25, pp. 104124, 2025. (IF: 5.0).
 
