@@ -51,12 +51,12 @@
   top: 100%;
   left: 0;
   list-style: none;
-  background: white;
+  background: #fff;
   padding: 0;
   margin: 0;
   min-width: 180px;
   box-shadow: 0 2px 8px rgba(0,0,0,0.15);
-  z-index: 1000;
+  z-index: 999;
 }
 
 .masthead__menu-item .dropdown li {
@@ -73,5 +73,6 @@
 .masthead__menu-item:hover .dropdown {
   display: block;
 }
+
 
 
