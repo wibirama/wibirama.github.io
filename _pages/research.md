@@ -8,7 +8,9 @@ redirect_from:
 ---
 
 
-[![CoviDisplay - Touchless Technology](https://img.youtube.com/vi/ApU1MEdvkPI/0.jpg)](https://www.youtube.com/watch?v=ApU1MEdvkPI)
+[![CoviDisplay first version (2021)](https://img.youtube.com/vi/ApU1MEdvkPI/0.jpg)](https://www.youtube.com/watch?v=ApU1MEdvkPI)
+
+[![CoviDisplay second version (2023)](https://img.youtube.com/vi/WYedQ0HJaWY/0.jpg)](https://www.youtube.com/watch?v=WYedQ0HJaWY)
 
 
 Our research interests span from developing an interactive user interface with eye tracking to using eye tracker as a diagnostic tool for various biomedical and usability issues. We are working on developing an intelligent touchless technology based on artificial intelligence and eye tracking sensor. This technology is promising for public health education and prevention of Covid-19. Our latest research interest has been implementing deep learning technology for various gaze-based applications such as:
