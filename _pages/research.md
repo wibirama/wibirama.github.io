@@ -34,6 +34,7 @@ Personalized education works best when we understand how people learn. One key f
 
 
 ### Teaching machines to see what we read: improving saliency prediction in text-heavy images
+*************************************
 
 <img src="/images/et_saliency.png" width="600">
 <figcaption>Saliency prediction using deep learning in text-heavy images</figcaption>
