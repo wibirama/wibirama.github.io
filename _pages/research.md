@@ -12,6 +12,7 @@ Our research interests span from developing an interactive user interface with e
 - Time-series eye movement data classification
 - Predicting cognitive style of online learners and online shoppers through visual attention.
 - Visual saliency model for optimizing user experience of web.
+  
 
 ### Intelligent touchless technology
 
