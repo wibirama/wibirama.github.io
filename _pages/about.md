@@ -11,7 +11,7 @@ redirect_from:
 
 Associate Professor (Dr.Eng.) at Universitas Gadjah Mada (Indonesia) <br>
 Vice Chair, IEEE Indonesia Section  <br>
-Email: sunu{at}ugm.ac.id , [LinkedIn](https://www.linkedin.com/in/sunuwibirama) , [Google Scholar](https://scholar.google.com/citations?user=xQI5ar8AAAAJ&hl=en&oi=ao) , <br>
+Email: sunu{at}ugm.ac.id , [LinkedIn](https://www.linkedin.com/in/sunuwibirama) , [Google Scholar](https://scholar.google.com/citations?user=xQI5ar8AAAAJ&hl=en&oi=ao) ,
 [Scopus](https://www.scopus.com/authid/detail.uri?authorId=26654457700) , [Youtube Channel](http://youtube.com/wibirama) <br>
 
 
