@@ -25,6 +25,9 @@ main:
     
   - title: "Publications"
     url: /allpublications/
+
+  - title: "Awards"
+    url: /awards/
     
   # - title: "CV"
   #   url: /cv-json/
