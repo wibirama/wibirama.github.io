@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Selected Publications"
+title: "Project Partnership"
 permalink: /partners/
 author_profile: true
 redirect_from:
