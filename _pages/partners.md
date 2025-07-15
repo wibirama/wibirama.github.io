@@ -40,7 +40,7 @@ redirect_from:
 
 Through a cutting edge eye tracking technology, Dr. Sunu Wibirama has been supporting several companies and partners to help them finding and solving the most compelling usability problem on company profile websites as well as user experience on various digital medias and advertisements (Fig. 1). 
 
-<img src="/images/fixational_eye_movement.gif" width="700">
+<img src="/images/fixational_eye_movement.gif" width="600">
 <figcaption>Fig. 2. Fixational eye tracking</figcaption>
 
 <img src="/images/heatmap.png" width="600">
