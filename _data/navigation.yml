@@ -37,7 +37,10 @@ main:
 
   - title: "Partners"
     url: /partners/
-    
+  
+  - title: "Invited Lectures"
+    url: /lectures/
+     
   # - title: "CV"
   #   url: /cv-json/
     
