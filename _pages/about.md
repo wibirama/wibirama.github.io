@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<img src="/images/Sunu_2020_NaturalLook_transparent_Web.png" width="250">
+<img src="/images/Sunu_2020_NaturalLook_transparent_Web.png" width="200">
 
 Dr. Sunu Wibirama is a renowned academician and practitioners of eye tracking, user experience of digital products, and applied artificial intelligence in South East Asia. He obtained B.Eng. (Bachelor of Engineering) from Universitas Gadjah Mada Indonesia, M.Eng. (Master of Engineering) from King Mongkut’s Institute of Technology Ladkrabang Thailand, and Dr.Eng. (Doctor of Engineering) from Tokai University Japan. Dr. Sunu Wibirama has conducted an eye-tracking-based customer experience research for more than 60 national and international brands of South East Asian, US, Japanese, and Europeans companies with more than 500 participants. He has been invited to investigate visibility of digital media for various business, including transportation, cosmetics, health, kids products, food and drinks, telecommunication, and e-commerce.
 
