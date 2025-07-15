@@ -41,6 +41,7 @@
     "vendor/font-awesome/brands"
 ;
 
+/* Dropdown fixes for Courses menu */
 .masthead__menu-item {
   position: relative;
 }
@@ -50,26 +51,39 @@
   position: absolute;
   top: 100%;
   left: 0;
+  background: #fff;
   list-style: none;
-  background: white;
-  padding: 0;
   margin: 0;
-  min-width: 180px;
-  box-shadow: 0 2px 8px rgba(0,0,0,0.15);
-  z-index: 999;
+  padding: 0;
+  min-width: 200px;
+  box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+  z-index: 9999;
+}
+
+.masthead__menu-item:hover > .dropdown {
+  display: block;
 }
 
 .masthead__menu-item .dropdown li {
-  display: block;
+  margin: 0;
+  padding: 0;
+  list-style: none;
 }
 
 .masthead__menu-item .dropdown li a {
   display: block;
-  padding: 10px;
-  color: #333;
+  padding: 8px 12px;
+  font-weight: normal;   /* remove bold */
   text-decoration: none;
+  color: #333;
+  white-space: nowrap;
 }
 
-.masthead__menu-item:hover .dropdown {
-  display: block;
+.masthead__menu-item .dropdown li a:hover {
+  background-color: #f5f5f5;
+}
+
+/* Optional: remove indentation and ensure alignment */
+.masthead__menu-item .dropdown li {
+  text-align: left;
 }
