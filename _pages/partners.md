@@ -40,7 +40,7 @@ redirect_from:
 
 Through a cutting edge eye tracking technology, Dr. Sunu Wibirama has been supporting several companies and partners to help them finding and solving the most compelling usability problem on company profile websites as well as user experience on various digital medias and advertisements (Fig. 1). 
 
-<img src="/images/fixational_eye_movement.gif" width="600">
+<img src="/images/fixational_eye_movement.gif" width="700">
 <figcaption>Fig. 2. Fixational eye tracking</figcaption>
 
 For example, presenting a gaze plot or a scanpath of fixational eye movements of a user during exposure of an ads may help a company to observe an area that directly captures attention of the user as well as measuring how long it takes for a user to gaze at a particular area of interest (Fig. 2). This analysis helps a company to improve the ads design by putting the most important information at an area with the highest visibility. Heat map and opacity map are useful tools to see the most prevalent area on a website or an ads (Fig. 3). These maps can be used as a gross validation strategy towards a crowd of customers on a particular product or ads that is presented online. Sometime, a more detailed quantitative analysis is needed to see how many customers seeing a particular area of interest in a digital media such as a movie or a short TV commercial. Thus, we can compare effectiveness of placing a component on top of the others to gain higher visibility and a better brand recall (Fig. 4).
