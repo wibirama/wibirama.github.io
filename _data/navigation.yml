@@ -42,7 +42,7 @@ main:
     url: /lectures/
 
   - title: "Courses"
-    url: /courses/
+    url: # 
     children:
       - title: AI for Research and Education
         url: https://www.sciencemindlab.id/aiapps
