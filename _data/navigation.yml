@@ -46,7 +46,7 @@ main:
     children:
       - title: AI for Research and Education
         url: https://www.sciencemindlab.id/aiapps
-      - title: AI for Developers
+      - title: AI for Developers (MOOC UGM)
         url: https://mooc.ugm.ac.id/course-bundle/paket-kecerdasan-buatan/
      
   # - title: "CV"
