@@ -44,9 +44,9 @@ main:
   - title: "Courses"
     url: # 
     children:
-      - title: AI for Research and Education
+      - title: AI for Academia
         url: https://www.sciencemindlab.id/aiapps
-      - title: AI for Developers (MOOC UGM)
+      - title: AI for Coders
         url: https://mooc.ugm.ac.id/course-bundle/paket-kecerdasan-buatan/
      
   # - title: "CV"
