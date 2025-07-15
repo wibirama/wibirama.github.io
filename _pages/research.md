@@ -13,8 +13,7 @@ Our research interests span from developing an interactive user interface with e
 - Predicting cognitive style of online learners and online shoppers through visual attention.
 - Visual saliency model for optimizing user experience of web.
 
-Intelligent touchless technology
-=====
+### Intelligent touchless technology
 
 [![CoviDisplay first version (2021)](https://img.youtube.com/vi/ApU1MEdvkPI/0.jpg)](https://www.youtube.com/watch?v=ApU1MEdvkPI)
 
@@ -23,8 +22,7 @@ Intelligent touchless technology
 We are working on developing an intelligent touchless technology based on artificial intelligence and eye tracking sensor. This technology is promising for public health education and prevention of Covid-19. We are working on a government-sponsored research project that explores possibilities of replacing old-fashioned eye movements classification methods with modern architectures of deep neural networks such as BiLSTM, Temporal Convolutional Networks, and so forth. We also have keen interest on optimizing deep neural networks architecture in gaze-based applications with various techniques such as pruning, hyperparameters optimization, knowledge distillation, and neural architecute search. Our focuses are not only performance of algorithm, but also minimizing carbon footprint of the developed technology. Our final goal will be developing robust gaze-based applications that are powered by eco-friendly deep learning technology.
 
 
-Eye tracking and AI for predicting cognitive style
-=====
+### Eye tracking and AI for predicting cognitive style
 
 <img src="/images/et_cognitive.png" width="600">
 <figcaption>Eye tracking patterns resemble different cognitive style: Sequential vs. Global.</figcaption>
