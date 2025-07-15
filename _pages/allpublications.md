@@ -16,7 +16,7 @@ For more recent and updated list of publications, please visit [my Google Schola
 Journal articles
 ======
 
-#### Manuscript under review 
+### Manuscript under review 
 1. Herlina, S. Murnani, A.A.A. Rizqi, R. Hartanto, I. Ardiyanto, and **S. Wibirama**, "A Robust Object Selection Technique for Spontaneous Gaze-Based Interaction", submitted to IEEE Access (IF: 3.6).
 
 2. H.L. Sobrian, A.H. Fristiana, S.A.I. Alfarozi, A.E. Permanasari, and **S. Wibirama**, "Reinforcement Learning in Time Series Analysis: A Systematic Literature Review", submitted to ASEAN Journal on Science and Technology for Development (AJSTD) (SJR: 0.262).
@@ -32,7 +32,7 @@ Journal articles
 8. K. A. Nugraha, **S. Wibirama**, and I. Ardiyanto, "Fine-tuning Deep Neural Network for Saliency Prediction in Movie Poster Documents", submitted ICT Express (IF: 4.2).  
    
 
-#### Published articles in international journals (indexed by Scopus and/or ISI Thomson Reuters)
+### Published articles in international journals (indexed by Scopus and/or ISI Thomson Reuters)
 
 1. D.S.E. Atmaja, **S. Wibirama**, M.K. Herliansyah, A. Sudiarso, ["Comparative Study of Integral Image and Normalized Cross-Correlation Methods for Defect Detection on Batik Klowong Fabric"](https://doi.org/10.1016/j.rineng.2025.104124),  Results in Engineering, Vol. 25, pp. 104124, 2025. (IF: 5.0).
 
