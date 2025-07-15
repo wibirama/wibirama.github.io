@@ -17,6 +17,8 @@ Our research areas span from developing an interactive user interface with eye t
 ### Intelligent touchless technology
 *************************************
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ApU1MEdvkPI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 [![CoviDisplay first version (2021)](https://img.youtube.com/vi/ApU1MEdvkPI/0.jpg)](https://www.youtube.com/watch?v=ApU1MEdvkPI)
 
 [![CoviDisplay second version (2023)](https://img.youtube.com/vi/WYedQ0HJaWY/0.jpg)](https://www.youtube.com/watch?v=WYedQ0HJaWY)
