@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Invited Lectures (2012-2024)"
-permalink: /lectures/
+permalink: /invited/
 author_profile: true
 redirect_from:
   - /resume
