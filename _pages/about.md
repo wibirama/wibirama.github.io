@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<img src="/images/Sunu_2020_NaturalLook_transparent_Web.png" width="200">
+<img src="/images/Sunu_2020_NaturalLook_transparent_Web.png" width="150">
 
 Associate Professor (Doctor of Engineering/Dr.Eng.) <br>
 Universitas Gadjah Mada (Indonesia) <br>
