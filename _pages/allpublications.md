@@ -19,13 +19,13 @@ Journal articles
 ### Manuscript under review 
 1. Herlina, S. Murnani, A.A.A. Rizqi, R. Hartanto, I. Ardiyanto, and **S. Wibirama**, "A Robust Object Selection Technique for Spontaneous Gaze-Based Interaction", submitted to IEEE Access (IF: 3.6).
 
-2. H.L. Sobrian, A.H. Fristiana, S.A.I. Alfarozi, A.E. Permanasari, and **S. Wibirama**, "Reinforcement Learning in Time Series Analysis: A Systematic Literature Review", submitted to ASEAN Journal on Science and Technology for Development (AJSTD) (SJR: 0.262).
+2. H.L. Sobrian, A.H. Fristiana, S.A.I. Alfarozi, A.E. Permanasari, and **S. Wibirama**, "Reinforcement Learning in Time Series Analysis: A Systematic Literature Review", submitted to Korean Journal of Science (IF: 1.1).
 
 3. **S. Wibirama**, S. A. I, Alfarozi, A. R. Suhari, A. H. Fristiana, H. Nurlatifa, and P. I. Santosa, "Classification of Cognitive Load Using Deep Learning Based on Eye Movement Indices", submitted to IEEE Access (IF: 3.6).
 
 4. H. Nurlatifa, T. B. Adji, I. Ardiyanto, G. L. Pritalia, and **S. Wibirama**, "Time Series Classification on Eye Tracking for Identification of Sequential-Global Cognitive Styles", submitted to IEEE Access (IF: 3.6).
    
-6. **S. Wibirama**, M. A. Fikri, A. K. Aliza, S. A. I, Alfarozi, N. A. Setiawan, A. R. Suhari, and S. Kusrohmaniah, "Cognitive Load Classification During Online Shopping Using Deep Learning on Time Series Eye Movement Indices", submitted to IEEE Access (IF: 3.6).
+6. **S. Wibirama**, M. A. Fikri, A. K. Aliza, S. A. I, Alfarozi, N. A. Setiawan, A. R. Suhari, and S. Kusrohmaniah, "Cognitive Load Classification During Online Shopping Using Deep Learning on Time Series Eye Movement Indices", submitted to Array (IF: 4.5).
    
 7. A. R. Suhari, **S. Wibirama**, K. A. Nugraha, A. H. Fristiana, and K. Woraratpanya, "Efficient Deep Learning Model with Fine-Tuning and Knowledge Distillation for Eye Movement Classification", submitted to Ain Shams Engineering Journal (IF: 5.9).
    
