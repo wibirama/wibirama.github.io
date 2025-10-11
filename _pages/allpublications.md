@@ -14,7 +14,7 @@ For more recent and updated list of publications, please visit [my Google Schola
 {% include base_path %}
 
 ----------------
-#### ^ : corresponding author
+^ : corresponding author
 
 
 Journal articles
