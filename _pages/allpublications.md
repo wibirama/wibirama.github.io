@@ -13,50 +13,53 @@ For more recent and updated list of publications, please visit [my Google Schola
 
 {% include base_path %}
 
+----------------
+^ : corresponding author
+
 Journal articles
 ======
 
 ### Manuscript under review 
-1. Herlina, S. Murnani, A.A.A. Rizqi, R. Hartanto, I. Ardiyanto, and **S. Wibirama**, "A Robust Object Selection Technique for Spontaneous Gaze-Based Interaction", submitted to IEEE Access (IF: 3.6).
+1. Herlina, S. Murnani, A.A.A. Rizqi, R. Hartanto, I. Ardiyanto, and **S. Wibirama**^, "A Robust Object Selection Technique for Spontaneous Gaze-Based Interaction", submitted to IEEE Access (IF: 3.6).
 
-2. H.L. Sobrian, A.H. Fristiana, S.A.I. Alfarozi, A.E. Permanasari, and **S. Wibirama**, "Reinforcement Learning in Time Series Analysis: A Systematic Literature Review", submitted to Korean Journal of Science (IF: 1.1).
+2. H.L. Sobrian, A.H. Fristiana, S.A.I. Alfarozi, A.E. Permanasari, and **S. Wibirama**^, "Reinforcement Learning in Time Series Analysis: A Systematic Literature Review", submitted to Korean Journal of Science (IF: 1.1).
 
-3. H. Nurlatifa, T. B. Adji, I. Ardiyanto, G. L. Pritalia, and **S. Wibirama**, "Time Series Classification on Eye Tracking for Identification of Sequential-Global Cognitive Styles", submitted to IEEE Access (IF: 3.6).
+3. H. Nurlatifa, T. B. Adji, I. Ardiyanto, G. L. Pritalia, and **S. Wibirama**^, "Time Series Classification on Eye Tracking for Identification of Sequential-Global Cognitive Styles", submitted to IEEE Access (IF: 3.6).
    
-4. **S. Wibirama**, M. A. Fikri, A. K. Aliza, S. A. I, Alfarozi, N. A. Setiawan, A. R. Suhari, and S. Kusrohmaniah, "Cognitive Load Classification During Online Shopping Using Deep Learning on Time Series Eye Movement Indices", submitted to Array (IF: 4.5).
+4. **S. Wibirama**^, M. A. Fikri, A. K. Aliza, S. A. I, Alfarozi, N. A. Setiawan, A. R. Suhari, and S. Kusrohmaniah, "Cognitive Load Classification During Online Shopping Using Deep Learning on Time Series Eye Movement Indices", submitted to Array (IF: 4.5).
    
-5. A. R. Suhari, **S. Wibirama**, K. A. Nugraha, A. H. Fristiana, and K. Woraratpanya, "Efficient Deep Learning Model with Fine-Tuning and Knowledge Distillation for Eye Movement Classification", submitted to Ain Shams Engineering Journal (IF: 5.9).
+5. A. R. Suhari, **S. Wibirama**^, K. A. Nugraha, A. H. Fristiana, and K. Woraratpanya, "Efficient Deep Learning Model with Fine-Tuning and Knowledge Distillation for Eye Movement Classification", submitted to Ain Shams Engineering Journal (IF: 5.9).
    
  
    
 
 ### Published articles in international journals (indexed by Scopus and/or ISI Thomson Reuters)
 
-1. K. A. Nugraha, **S. Wibirama**, and I. Ardiyanto, ["Fine-tuning Deep Neural Network for Saliency Prediction in Movie Poster Documents"](https://doi.org/10.1016/j.icte.2025.09.008), to be published in ICT Express, 2025 (IF: 4.2).
+1. K. A. Nugraha, **S. Wibirama**^, and I. Ardiyanto, ["Fine-tuning Deep Neural Network for Saliency Prediction in Movie Poster Documents"](https://doi.org/10.1016/j.icte.2025.09.008), to be published in ICT Express, 2025 (IF: 4.2).
 
-2.  **S. Wibirama**, S. A. I, Alfarozi, A. R. Suhari, A. H. Fristiana, H. Nurlatifa, and P. I. Santosa, ["Classification of Cognitive Load Using Deep Learning Based on Eye Movement Indices"](https://doi.org/10.1109/ACCESS.2025.3613292), IEEE Access. Vol. 13, pp. 167324-167343, 2025 (IF: 3.6).
+2.  **S. Wibirama**^, S. A. I, Alfarozi, A. R. Suhari, A. H. Fristiana, H. Nurlatifa, and P. I. Santosa, ["Classification of Cognitive Load Using Deep Learning Based on Eye Movement Indices"](https://doi.org/10.1109/ACCESS.2025.3613292), IEEE Access. Vol. 13, pp. 167324-167343, 2025 (IF: 3.6).
 
 3. D.S.E. Atmaja, **S. Wibirama**, M.K. Herliansyah, A. Sudiarso, ["Comparative Study of Integral Image and Normalized Cross-Correlation Methods for Defect Detection on Batik Klowong Fabric"](https://doi.org/10.1016/j.rineng.2025.104124),  Results in Engineering, Vol. 25, pp. 104124, 2025. (IF: 5.0).
 
-4. S. Rosidah, F.X. Ivan, S. Murnani, H. Nurlatifa, and **S. Wibirama**, ["Impact of Color, Shape, and Typeface on Visual Attention: An Eye Tracking-Based User Experience Study"](https://ajstd.ubd.edu.bn/journal/vol42/iss1/2), ASEAN Journal on Science and Technology for Development (AJSTD), Vol. 42, No. 1, Article 2, 2025, pp.10-26 (SJR: 0.262).
+4. S. Rosidah, F.X. Ivan, S. Murnani, H. Nurlatifa, and **S. Wibirama**^, ["Impact of Color, Shape, and Typeface on Visual Attention: An Eye Tracking-Based User Experience Study"](https://ajstd.ubd.edu.bn/journal/vol42/iss1/2), ASEAN Journal on Science and Technology for Development (AJSTD), Vol. 42, No. 1, Article 2, 2025, pp.10-26 (SJR: 0.262).
 
-5. A.H. Fristiana, S.A.I Alfarozi, A.E. Permansari, M. Pratama, **S. Wibirama**, ["A Survey on Hyperparameters Optimization of Deep Learning for Time Series Classification"](https://doi.org/10.1109/ACCESS.2024.3516198),  IEEE Access, Vol.12, pp. 191162-191198, 2024 (IF: 3.4).
+5. A.H. Fristiana, S.A.I Alfarozi, A.E. Permansari, M. Pratama, **S. Wibirama**^, ["A Survey on Hyperparameters Optimization of Deep Learning for Time Series Classification"](https://doi.org/10.1109/ACCESS.2024.3516198),  IEEE Access, Vol.12, pp. 191162-191198, 2024 (IF: 3.4).
 
-6. S. Murnani, N.A. Setiawan, **S. Wibirama**, ["Robust Object Selection in Spontaneous Gaze-Controlled Application using Exponential Moving Average and Hidden Markov Model"](https://doi.org/10.1109/THMS.2024.3413781), IEEE Transactions on Human-Machine Systems, Vol. 54, No. 5, 2024, pp. 485-498 (IF: 3.5).
+6. S. Murnani, N.A. Setiawan, **S. Wibirama**^, ["Robust Object Selection in Spontaneous Gaze-Controlled Application using Exponential Moving Average and Hidden Markov Model"](https://doi.org/10.1109/THMS.2024.3413781), IEEE Transactions on Human-Machine Systems, Vol. 54, No. 5, 2024, pp. 485-498 (IF: 3.5).
 
 7. N. Paeedeh, M. Pratama, **S. Wibirama**, W. Mayer, Z. Cao, and R. Kowalczyk, ["Few-Shot Class Incremental Learning via Robust Transformer Approach"](https://doi.org/10.1016/j.ins.2024.120751), Information Sciences, Vol. 675, No. 120751, 2024. (IF: 8.1).
 
-8. H. Nurlatifa, R. Hartanto, A. Ataka, and  **S. Wibirama**, ["Optimum Object Selection Methods for Spontaneous Gaze-Based Interaction with Linear and Circular Trajectories"](https://doi.org/10.1016/j.rineng.2024.101769), Results in Engineering, Vol. 21, pp. 101769, 2024. (IF: 5.0)
+8. H. Nurlatifa, R. Hartanto, A. Ataka, and  **S. Wibirama**^, ["Optimum Object Selection Methods for Spontaneous Gaze-Based Interaction with Linear and Circular Trajectories"](https://doi.org/10.1016/j.rineng.2024.101769), Results in Engineering, Vol. 21, pp. 101769, 2024. (IF: 5.0)
 
 9. L.A. Putri, I. Rahman, M. Puspita, S.N. Hidayat, A.B. Dharmawan, A. Rianjanu, **S. Wibirama**, R. Roto, K. Triyana, and H.S. Wasisto, ["Rapid analysis of meat floss origin using a supervised machine learning-based electronic nose towards food authentication"](https://doi.org/10.1038/s41538-023-00205-2), npj Science of Food, Vol. 7, No. 31, pp. 1-15, 2023. (IF: 7.000). 
 
-10. P. V. Yulianandra, S. Murnani, P.I. Santosa, **S. Wibirama**, ["Observing Cognitive Load During Online Learning with Various Task Complexities: An Eye Tracking Approach"](https://doi.org/10.1504/IJIL.2023.10051446), International Journal of Innovation and Learning, Vol. 34, No. 1, 2023,  pp. 96-117  (SJR: 0.226).
+10. P. V. Yulianandra, S. Murnani, P.I. Santosa, **S. Wibirama**^, ["Observing Cognitive Load During Online Learning with Various Task Complexities: An Eye Tracking Approach"](https://doi.org/10.1504/IJIL.2023.10051446), International Journal of Innovation and Learning, Vol. 34, No. 1, 2023,  pp. 96-117  (SJR: 0.226).
 
 11. S. Murnani, N.A. Setiawan, **S. Wibirama**, ["Spontaneous Gaze Interaction Based on Smooth Pursuit Eye Movement Using Difference Pattern Approach"](https://doi.org/10.21924/cst.7.1.2022.739), Communications in Science and Technology, Vol. 7, No.1,  pp.8-14, 2022. (SJR: 0.277). 
 
 12. A.E. Permanasari, D.A. Hidayat, **S. Wibirama**, I.S. Sakkinah, and D.R.A. Rambli, ["Development of a hospital virtual tour with virtual reality-based panorama"](https://doi.org/10.1504/IJIL.2021.117218), International Journal of Innovation and Learning, Vol. 30, No. 2, pp.119–131, 2021. (SJR: 0.226).
 
-13. **S. Wibirama**, P. I. Santosa, P. Widyarani, N. Brilianto, W. Hafidh, ["Physical Discomfort and Eye Movements during Arbitrary and Optical Flow-Like Motions in Stereo 3D Contents"](https://doi.org/10.1007/s10055-019-00386-w), Virtual Reality, Vol. 24,  2020, pp. 39-51. (IF: 5.471).
+13. **S. Wibirama**^, P. I. Santosa, P. Widyarani, N. Brilianto, W. Hafidh, ["Physical Discomfort and Eye Movements during Arbitrary and Optical Flow-Like Motions in Stereo 3D Contents"](https://doi.org/10.1007/s10055-019-00386-w), Virtual Reality, Vol. 24,  2020, pp. 39-51. (IF: 5.471).
     
 14. I. Ardiyanto, **S. Wibirama**, F. Nurwanto, ["Sliding Variance and Data Range for Lightweight Sports Activitiy Recognition with Fusion Modalities"](https://doi.org/10.1016/j.jksuci.2018.08.012), Journal of King Saud University-Computer and Information Sciences, Vol. 32, 2020, pp. 775-783 (IF: 9.006).
 
@@ -68,17 +71,17 @@ Journal articles
 
 18. N.H. Baharom, N. Jayabalan, M. Kamal M.A., **S. Wibirama**, ["Positive Emotion Recognition Through Eye Tracking Technology"](https://jamt.utem.edu.my/jamt/article/view/5683), Journal of Advanced Manufacturing Technology, Vol.13, No.2(1), 2019, pp.143-152. (SJR: 0.146)
 
-19. **S. Wibirama**, I. Ardiyanto, T. Satriya, T.B. Adji, N. A. Setiawan, M. T. Setiawan, ["An Improved Pupil Localization Technique for Real-Time Video-Oculography under Extreme Eyelid Occlusion"](http://www.ijicic.org/ijicic-150423.pdf), International Journal of Innovative Computing, Information and Control, Vol. 15, No. 4, 2019, pp. 1547-1563. (SJR: 0.426).
+19. **S. Wibirama**^, I. Ardiyanto, T. Satriya, T.B. Adji, N. A. Setiawan, M. T. Setiawan, ["An Improved Pupil Localization Technique for Real-Time Video-Oculography under Extreme Eyelid Occlusion"](http://www.ijicic.org/ijicic-150423.pdf), International Journal of Innovative Computing, Information and Control, Vol. 15, No. 4, 2019, pp. 1547-1563. (SJR: 0.426).
 
-20. W. Mahardika, **S. Wibirama**, R. Ferdiana, S. S. Kusumawardani, ["A Novel User Experience Study of Parallax Scrolling using Eye Tracking and User Experience"](http://dx.doi.org/10.18517/ijaseit.8.4.6500), International Journal on Advanced Science, Engineering and Information Technology, Vol. 8, No. 4, 201, pp. 1226-1233. (SJR: 0.208).
+20. W. Mahardika, **S. Wibirama**^, R. Ferdiana, S. S. Kusumawardani, ["A Novel User Experience Study of Parallax Scrolling using Eye Tracking and User Experience"](http://dx.doi.org/10.18517/ijaseit.8.4.6500), International Journal on Advanced Science, Engineering and Information Technology, Vol. 8, No. 4, 201, pp. 1226-1233. (SJR: 0.208).
 
-21. **S. Wibirama**, H.A. Nugroho, K. Hamamoto, ["Depth Gaze and ECG Based Frequency Dynamics during Motion Sickness in Stereoscopic 3D Movie"](https://doi.org/10.1016/j.entcom.2018.02.003), Entertainment Computing, Vol. 28, 2018, pp.117-127. (IF: 2.072). 
+21. **S. Wibirama**^, H.A. Nugroho, K. Hamamoto, ["Depth Gaze and ECG Based Frequency Dynamics during Motion Sickness in Stereoscopic 3D Movie"](https://doi.org/10.1016/j.entcom.2018.02.003), Entertainment Computing, Vol. 28, 2018, pp.117-127. (IF: 2.072). 
 
-22. **S. Wibirama**, H.A. Nugroho, K. Hamamoto, [“Evaluating 3D Gaze Tracking in Virtual Space: A Computer Graphics Approach”](http://doi.org/10.1016/j.entcom.2017.04.003), Entertainment Computing, Vol. 21, June 2017, pp.11-17. (IF: 2.072).
+22. **S. Wibirama**^, H.A. Nugroho, K. Hamamoto, [“Evaluating 3D Gaze Tracking in Virtual Space: A Computer Graphics Approach”](http://doi.org/10.1016/j.entcom.2017.04.003), Entertainment Computing, Vol. 21, June 2017, pp.11-17. (IF: 2.072).
 
-23. **S.Wibirama** and K. Hamamoto, [“3D Gaze Tracking on Stereoscopic Display using Optimized Geometric Method”](http://dx.doi.org/10.1541/ieejeiss.134.345), IEEJ Transactions on Electronics, Information, and Systems, Vol. 134, No. 3, 2014, pp. 345-352. (SJR: 0.154).
+23. **S.Wibirama**^ and K. Hamamoto, [“3D Gaze Tracking on Stereoscopic Display using Optimized Geometric Method”](http://dx.doi.org/10.1541/ieejeiss.134.345), IEEJ Transactions on Electronics, Information, and Systems, Vol. 134, No. 3, 2014, pp. 345-352. (SJR: 0.154).
 
-24. **S. Wibirama**,  S. Tungjitkusolmun, and C. Pintavirooj, [“Dual-Camera Acquisition for Accurate Measurement of Three-Dimensional Eye Movements”](http://dx.doi.org/10.1002/tee.21845), Transactions on Electrical and Electronic Engineering, Vol.8(3), 2013, pp. 238-246. (IF: 0.923).
+24. **S. Wibirama**^,  S. Tungjitkusolmun, and C. Pintavirooj, [“Dual-Camera Acquisition for Accurate Measurement of Three-Dimensional Eye Movements”](http://dx.doi.org/10.1002/tee.21845), Transactions on Electrical and Electronic Engineering, Vol.8(3), 2013, pp. 238-246. (IF: 0.923).
 
 Conference papers
 ======
