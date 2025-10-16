@@ -34,7 +34,7 @@ Journal articles
  
    
 
-### Published articles in international journals (indexed by Scopus and/or ISI Thomson Reuters)
+### Published articles in international journals (indexed by Scopus and/or Web of Science)
 
 1. K. A. Nugraha, **S. Wibirama^**, and I. Ardiyanto, ["Fine-tuning Deep Neural Network for Saliency Prediction in Movie Poster Documents"](https://doi.org/10.1016/j.icte.2025.09.008), to be published in ICT Express, 2025 (IF: 4.2).
 
