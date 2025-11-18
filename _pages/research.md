@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-Our research areas span from developing an interactive user interface with eye tracking to using eye tracker as a diagnostic tool for various applications, such as cognitive style classification. Our latest research interest has been implementing deep learning technology for various gaze-based applications such as:
+Our research areas span from developing an interactive user interface with eye tracking to using eye tracker as a diagnostic tool for various applications, such as cognitive style classification or vertigo detection. Our latest research interest has been implementing deep learning technology for various gaze-based applications such as:
 - Spontaneous gaze-based interaction.
 - Time-series eye movement data classification
 - Predicting cognitive style of online learners and online shoppers through visual attention.
