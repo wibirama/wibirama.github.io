@@ -89,7 +89,9 @@ Conference papers
 
 ### 2025
 
-1. A. Solaeman, S. A. I. Alfarozi, **S. Wibirama**, [“A Systematic Literature Review of Transfer Learning for Eye Tracking”](http://dx.doi.org/10.1109/ICADEIS65852.2025.10933367), in 2025 International Conference on Advancement in Data Science, E-learning and Information System: Integrating Data Science and Information System (ICADEIS 2025), February, 3-4, 2025, Bandung, Indonesia, pp. 1-7.
+1. K.A. Nugraha, I. Ardiyanto, **S. Wibirama**, "Automated Annotation of Eye Tracking Heatmaps Using Perception Encoder", in 2025 17th International Conference on Information Technology and Electrical Engineering (ICITEE), October, 20-21, 2025, Bangkok, Thailand (to be published in IEEEXplore).
+2. M.A. Adhisetama, I. Soesanti, **S. Wibirama**, "Field-Weighted Citation Impact Measurement for Indonesian Scientific Publications Using GROBID and Zero-Shot Text Classification", 2025 12th International Conference on Electrical Engineering, Computer Science and Informatics (EECSI), September, 25-26, 2025, Semarang, Indonesia (to be published in IEEEXplore).  
+3. A. Solaeman, S. A. I. Alfarozi, **S. Wibirama**, [“A Systematic Literature Review of Transfer Learning for Eye Tracking”](http://dx.doi.org/10.1109/ICADEIS65852.2025.10933367), in 2025 International Conference on Advancement in Data Science, E-learning and Information System: Integrating Data Science and Information System (ICADEIS 2025), February, 3-4, 2025, Bandung, Indonesia, pp. 1-7.
 
 ### 2024
 
