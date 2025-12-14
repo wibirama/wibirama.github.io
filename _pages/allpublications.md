@@ -48,17 +48,17 @@ Journal articles
 
 6. S. Murnani, N.A. Setiawan, **S. Wibirama^**, ["Robust Object Selection in Spontaneous Gaze-Controlled Application using Exponential Moving Average and Hidden Markov Model"](https://doi.org/10.1109/THMS.2024.3413781), IEEE Transactions on Human-Machine Systems, Vol. 54, No. 5, pp. 485-498, 2024 (IF: 3.5).
 
-7. N. Paeedeh, M. Pratama, **S. Wibirama**, W. Mayer, Z. Cao, and R. Kowalczyk, ["Few-Shot Class Incremental Learning via Robust Transformer Approach"](https://doi.org/10.1016/j.ins.2024.120751), Information Sciences, Vol. 675, No. 120751, 2024. (IF: 8.1).
+7. N. Paeedeh, M. Pratama, **S. Wibirama**, W. Mayer, Z. Cao, and R. Kowalczyk, ["Few-Shot Class Incremental Learning via Robust Transformer Approach"](https://doi.org/10.1016/j.ins.2024.120751), Information Sciences, Vol. 675, No. 120751, 2024 (IF: 8.1).
 
-8. H. Nurlatifa, R. Hartanto, A. Ataka, and  **S. Wibirama^**, ["Optimum Object Selection Methods for Spontaneous Gaze-Based Interaction with Linear and Circular Trajectories"](https://doi.org/10.1016/j.rineng.2024.101769), Results in Engineering, Vol. 21, pp. 101769, 2024. (IF: 5.0)
+8. H. Nurlatifa, R. Hartanto, A. Ataka, and  **S. Wibirama^**, ["Optimum Object Selection Methods for Spontaneous Gaze-Based Interaction with Linear and Circular Trajectories"](https://doi.org/10.1016/j.rineng.2024.101769), Results in Engineering, Vol. 21, pp. 101769, 2024 (IF: 5.0).
 
-9. L.A. Putri, I. Rahman, M. Puspita, S.N. Hidayat, A.B. Dharmawan, A. Rianjanu, **S. Wibirama**, R. Roto, K. Triyana, and H.S. Wasisto, ["Rapid analysis of meat floss origin using a supervised machine learning-based electronic nose towards food authentication"](https://doi.org/10.1038/s41538-023-00205-2), npj Science of Food, Vol. 7, No. 31, pp. 1-15, 2023. (IF: 7.000). 
+9. L.A. Putri, I. Rahman, M. Puspita, S.N. Hidayat, A.B. Dharmawan, A. Rianjanu, **S. Wibirama**, R. Roto, K. Triyana, and H.S. Wasisto, ["Rapid analysis of meat floss origin using a supervised machine learning-based electronic nose towards food authentication"](https://doi.org/10.1038/s41538-023-00205-2), npj Science of Food, Vol. 7, No. 31, pp. 1-15, 2023 (IF: 7.000). 
 
 10. P. V. Yulianandra, S. Murnani, P.I. Santosa, **S. Wibirama^**, ["Observing Cognitive Load During Online Learning with Various Task Complexities: An Eye Tracking Approach"](https://doi.org/10.1504/IJIL.2023.10051446), International Journal of Innovation and Learning, Vol. 34, No. 1, pp. 96-117, 2023 (SJR: 0.226).
 
 11. S. Murnani, N.A. Setiawan, **S. Wibirama**, ["Spontaneous Gaze Interaction Based on Smooth Pursuit Eye Movement Using Difference Pattern Approach"](https://doi.org/10.21924/cst.7.1.2022.739), Communications in Science and Technology, Vol. 7, No.1, pp.8-14, 2022 (SJR: 0.277). 
 
-12. A.E. Permanasari, D.A. Hidayat, **S. Wibirama**, I.S. Sakkinah, and D.R.A. Rambli, ["Development of a hospital virtual tour with virtual reality-based panorama"](https://doi.org/10.1504/IJIL.2021.117218), International Journal of Innovation and Learning, Vol. 30, No. 2, pp.119–131, 2021. (SJR: 0.226).
+12. A.E. Permanasari, D.A. Hidayat, **S. Wibirama**, I.S. Sakkinah, and D.R.A. Rambli, ["Development of a hospital virtual tour with virtual reality-based panorama"](https://doi.org/10.1504/IJIL.2021.117218), International Journal of Innovation and Learning, Vol. 30, No. 2, pp.119–131, 2021 (SJR: 0.226).
 
 13. **S. Wibirama^**, P. I. Santosa, P. Widyarani, N. Brilianto, W. Hafidh, ["Physical Discomfort and Eye Movements during Arbitrary and Optical Flow-Like Motions in Stereo 3D Contents"](https://doi.org/10.1007/s10055-019-00386-w), Virtual Reality, Vol. 24, pp. 39-51, 2020 (IF: 5.471).
     
