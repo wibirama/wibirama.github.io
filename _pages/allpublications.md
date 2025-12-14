@@ -23,7 +23,7 @@ Journal articles
 ### Manuscript under review 
 1. Herlina, S. Murnani, A.A.A. Rizqi, R. Hartanto, I. Ardiyanto, and **S. Wibirama^**, "A Robust Object Selection Technique for Spontaneous Gaze-Based Interaction", submitted to IEEE Access (IF: 3.6).
 
-2. H.L. Sobrian, A.H. Fristiana, S.A.I. Alfarozi, A.E. Permanasari, and **S. Wibirama^**, "Reinforcement Learning in Time Series Analysis: A Systematic Literature Review", submitted to Korean Journal of Science (IF: 1.1).
+2. H. L. Sobrian, A.H. Fristiana, S.A.I. Alfarozi, A.E. Permanasari, and **S. Wibirama^**, "Reinforcement Learning in Time Series Analysis: A Systematic Literature Review", submitted to Korean Journal of Science (IF: 1.1).
 
 3. H. Nurlatifa, T. B. Adji, I. Ardiyanto, G. L. Pritalia, and **S. Wibirama^**, "Time Series Classification on Eye Tracking for Identification of Sequential-Global Cognitive Styles", submitted to IEEE Access (IF: 3.6).
    
@@ -40,11 +40,11 @@ Journal articles
 
 2.  **S. Wibirama^**, S. A. I, Alfarozi, A. R. Suhari, A. H. Fristiana, H. Nurlatifa, and P. I. Santosa, ["Classification of Cognitive Load Using Deep Learning Based on Eye Movement Indices"](https://doi.org/10.1109/ACCESS.2025.3613292), IEEE Access, Vol. 13, pp. 167324-167343, 2025 (IF: 3.6).
 
-3. D.S.E. Atmaja, **S. Wibirama**, M.K. Herliansyah, A. Sudiarso, ["Comparative Study of Integral Image and Normalized Cross-Correlation Methods for Defect Detection on Batik Klowong Fabric"](https://doi.org/10.1016/j.rineng.2025.104124),  Results in Engineering, Vol. 25, pp. 104124, 2025. (IF: 5.0).
+3. D. S. E. Atmaja, **S. Wibirama**, M.K. Herliansyah, A. Sudiarso, ["Comparative Study of Integral Image and Normalized Cross-Correlation Methods for Defect Detection on Batik Klowong Fabric"](https://doi.org/10.1016/j.rineng.2025.104124),  Results in Engineering, Vol. 25, pp. 104124, 2025. (IF: 5.0).
 
 4. S. Rosidah, F.X. Ivan, S. Murnani, H. Nurlatifa, and **S. Wibirama^**, ["Impact of Color, Shape, and Typeface on Visual Attention: An Eye Tracking-Based User Experience Study"](https://ajstd.ubd.edu.bn/journal/vol42/iss1/2), ASEAN Journal on Science and Technology for Development (AJSTD), Vol. 42, No. 1, Article 2, pp.10-26, 2025 (SJR: 0.262).
 
-5. A.H. Fristiana, S.A.I Alfarozi, A.E. Permansari, M. Pratama, **S. Wibirama^**, ["A Survey on Hyperparameters Optimization of Deep Learning for Time Series Classification"](https://doi.org/10.1109/ACCESS.2024.3516198),  IEEE Access, Vol.12, pp. 191162-191198, 2024 (IF: 3.4).
+5. A. H. Fristiana, S.A.I Alfarozi, A.E. Permansari, M. Pratama, **S. Wibirama^**, ["A Survey on Hyperparameters Optimization of Deep Learning for Time Series Classification"](https://doi.org/10.1109/ACCESS.2024.3516198),  IEEE Access, Vol.12, pp. 191162-191198, 2024 (IF: 3.4).
 
 6. S. Murnani, N.A. Setiawan, **S. Wibirama^**, ["Robust Object Selection in Spontaneous Gaze-Controlled Application using Exponential Moving Average and Hidden Markov Model"](https://doi.org/10.1109/THMS.2024.3413781), IEEE Transactions on Human-Machine Systems, Vol. 54, No. 5, pp. 485-498, 2024 (IF: 3.5).
 
@@ -52,7 +52,7 @@ Journal articles
 
 8. H. Nurlatifa, R. Hartanto, A. Ataka, and  **S. Wibirama^**, ["Optimum Object Selection Methods for Spontaneous Gaze-Based Interaction with Linear and Circular Trajectories"](https://doi.org/10.1016/j.rineng.2024.101769), Results in Engineering, Vol. 21, pp. 101769, 2024 (IF: 5.0).
 
-9. L.A. Putri, I. Rahman, M. Puspita, S.N. Hidayat, A.B. Dharmawan, A. Rianjanu, **S. Wibirama**, R. Roto, K. Triyana, and H.S. Wasisto, ["Rapid analysis of meat floss origin using a supervised machine learning-based electronic nose towards food authentication"](https://doi.org/10.1038/s41538-023-00205-2), npj Science of Food, Vol. 7, No. 31, pp. 1-15, 2023 (IF: 7.000). 
+9. L. A. Putri, I. Rahman, M. Puspita, S. N. Hidayat, A. B. Dharmawan, A. Rianjanu, **S. Wibirama**, R. Roto, K. Triyana, and H. S. Wasisto, ["Rapid analysis of meat floss origin using a supervised machine learning-based electronic nose towards food authentication"](https://doi.org/10.1038/s41538-023-00205-2), npj Science of Food, Vol. 7, No. 31, pp. 1-15, 2023 (IF: 7.000). 
 
 10. P. V. Yulianandra, S. Murnani, P.I. Santosa, **S. Wibirama^**, ["Observing Cognitive Load During Online Learning with Various Task Complexities: An Eye Tracking Approach"](https://doi.org/10.1504/IJIL.2023.10051446), International Journal of Innovation and Learning, Vol. 34, No. 1, pp. 96-117, 2023 (SJR: 0.226).
 
@@ -64,21 +64,21 @@ Journal articles
     
 14. I. Ardiyanto, **S. Wibirama**, F. Nurwanto, ["Sliding Variance and Data Range for Lightweight Sports Activitiy Recognition with Fusion Modalities"](https://doi.org/10.1016/j.jksuci.2018.08.012), Journal of King Saud University-Computer and Information Sciences, Vol. 32, pp. 775-783, 2020 (IF: 9.006).
 
-15. S. Thiyagarajan, S. N. Rosli, M. Kamal M.A, **S. Wibirama**, ["Tracking The Eye-Mind Relationship of Positive Emotion using Eye Tracking Technique"](https://jamt.utem.edu.my/jamt/article/view/5725),  Journal of Advanced Manufacturing Technology, Vol.13, No.2 (2), 2019 (SJR: 0.146).
+15. S. Thiyagarajan, S. N. Rosli, M. Kamal M. A, **S. Wibirama**, ["Tracking The Eye-Mind Relationship of Positive Emotion using Eye Tracking Technique"](https://jamt.utem.edu.my/jamt/article/view/5725),  Journal of Advanced Manufacturing Technology, Vol.13, No.2 (2), 2019 (SJR: 0.146).
 
-16. S. Thiyagarajan, M. Kamal M.A., **S. Wibirama**, O. Mikami, ["Applying Eye Tracking Device on The Gazing Behaviour and Its Effects on Emotions Attributes"](https://jamt.utem.edu.my/jamt/article/view/5722), Journal of Advanced Manufacturing Technology, Vol.13, No.2 (2), 2019 (SJR: 0.146).
+16. S. Thiyagarajan, M. Kamal M. A., **S. Wibirama**, O. Mikami, ["Applying Eye Tracking Device on The Gazing Behaviour and Its Effects on Emotions Attributes"](https://jamt.utem.edu.my/jamt/article/view/5722), Journal of Advanced Manufacturing Technology, Vol.13, No.2 (2), 2019 (SJR: 0.146).
 
-17. N.H. Baharom, S. R. Aid, M. Kamal M.A., **S. Wibirama**, O. Mikami, ["Exploring The Eye Tracking Data on Human Behaviour on Consumer Merchandise Product"](https://jamt.utem.edu.my/jamt/article/view/5723), Journal of Advanced Manufacturing Technology, Vol.13, No.2 (2), 2019 (SJR: 0.146).
+17. N. H. Baharom, S. R. Aid, M. Kamal M. A., **S. Wibirama**, O. Mikami, ["Exploring The Eye Tracking Data on Human Behaviour on Consumer Merchandise Product"](https://jamt.utem.edu.my/jamt/article/view/5723), Journal of Advanced Manufacturing Technology, Vol.13, No.2 (2), 2019 (SJR: 0.146).
 
-18. N.H. Baharom, N. Jayabalan, M. Kamal M.A., **S. Wibirama**, ["Positive Emotion Recognition Through Eye Tracking Technology"](https://jamt.utem.edu.my/jamt/article/view/5683), Journal of Advanced Manufacturing Technology, Vol.13, No.2(1), pp.143-152, 2019 (SJR: 0.146).
+18. N. H. Baharom, N. Jayabalan, M. Kamal M. A., **S. Wibirama**, ["Positive Emotion Recognition Through Eye Tracking Technology"](https://jamt.utem.edu.my/jamt/article/view/5683), Journal of Advanced Manufacturing Technology, Vol.13, No.2(1), pp.143-152, 2019 (SJR: 0.146).
 
-19. **S. Wibirama^**, I. Ardiyanto, T. Satriya, T.B. Adji, N. A. Setiawan, M. T. Setiawan, ["An Improved Pupil Localization Technique for Real-Time Video-Oculography under Extreme Eyelid Occlusion"](http://www.ijicic.org/ijicic-150423.pdf), International Journal of Innovative Computing, Information and Control, Vol. 15, No. 4, pp. 1547-1563, 2019 (SJR: 0.426).
+19. **S. Wibirama^**, I. Ardiyanto, T. Satriya, T. B. Adji, N. A. Setiawan, M. T. Setiawan, ["An Improved Pupil Localization Technique for Real-Time Video-Oculography under Extreme Eyelid Occlusion"](http://www.ijicic.org/ijicic-150423.pdf), International Journal of Innovative Computing, Information and Control, Vol. 15, No. 4, pp. 1547-1563, 2019 (SJR: 0.426).
 
 20. W. Mahardika, **S. Wibirama^**, R. Ferdiana, S. S. Kusumawardani, ["A Novel User Experience Study of Parallax Scrolling using Eye Tracking and User Experience"](http://dx.doi.org/10.18517/ijaseit.8.4.6500), International Journal on Advanced Science, Engineering and Information Technology, Vol. 8, No. 4, pp. 1226-1233, 2018 (SJR: 0.208).
 
-21. **S. Wibirama^**, H.A. Nugroho, K. Hamamoto, ["Depth Gaze and ECG Based Frequency Dynamics during Motion Sickness in Stereoscopic 3D Movie"](https://doi.org/10.1016/j.entcom.2018.02.003), Entertainment Computing, Vol. 28, pp.117-127, 2018 (IF: 2.072). 
+21. **S. Wibirama^**, H. A. Nugroho, K. Hamamoto, ["Depth Gaze and ECG Based Frequency Dynamics during Motion Sickness in Stereoscopic 3D Movie"](https://doi.org/10.1016/j.entcom.2018.02.003), Entertainment Computing, Vol. 28, pp.117-127, 2018 (IF: 2.072). 
 
-22. **S. Wibirama^**, H.A. Nugroho, K. Hamamoto, [“Evaluating 3D Gaze Tracking in Virtual Space: A Computer Graphics Approach”](http://doi.org/10.1016/j.entcom.2017.04.003), Entertainment Computing, Vol. 21, pp.11-17, 2017 (IF: 2.072).
+22. **S. Wibirama^**, H. A. Nugroho, K. Hamamoto, [“Evaluating 3D Gaze Tracking in Virtual Space: A Computer Graphics Approach”](http://doi.org/10.1016/j.entcom.2017.04.003), Entertainment Computing, Vol. 21, pp.11-17, 2017 (IF: 2.072).
 
 23. **S.Wibirama^** and K. Hamamoto, [“3D Gaze Tracking on Stereoscopic Display using Optimized Geometric Method”](http://dx.doi.org/10.1541/ieejeiss.134.345), IEEJ Transactions on Electronics, Information, and Systems, Vol. 134, No. 3, pp. 345-352, 2014 (SJR: 0.154).
 
@@ -89,13 +89,14 @@ Conference papers
 
 ### 2025
 
-1. K.A. Nugraha, I. Ardiyanto, **S. Wibirama**, "Lightweight Deep Learning Architectures for Classifying Textual Elements in Movie Posters", in 2025 5th International Conference on Intelligent Cybernetics Technology & Applications (ICICyTA), December, 17-19, 2025, Yogyakarta, Indonesia (to be published in IEEEXplore).
-2. R. Faurina, **S. Wibirama**, T.B. Adji, "EndoHMC: A Four-Level Hierarchical Multi-Task Framework for Comprehensive Gastrointestinal Endoscopy Analysis", in 2025 5th International Conference on Intelligent Cybernetics Technology & Applications (ICICyTA), December, 17-19, 2025, Yogyakarta, Indonesia (to be published in IEEEXplore).    
-3. K.A. Nugraha, I. Ardiyanto, **S. Wibirama**, "Automated Annotation of Eye Tracking Heatmaps Using Perception Encoder", in 2025 17th International Conference on Information Technology and Electrical Engineering (ICITEE), October, 20-21, 2025, Bangkok, Thailand (to be published in IEEEXplore).
-4. M.F.F. Abdigusna, R. Wicaksono, **S. Wibirama**, "A Systematic Literature Review of Semi-Supervised Learning on Time-Series Data", in 2025 1st International Conference on Data Science and Geoinformatics (ICDSG),  November, 26-28, 2025, Bali, Indonesia (to be published in IEEEXplore).  
-5. F.M. Ahsan, I. Ardiyanto, **S. Wibirama**, "A Systematic Literature Review of Semi-Supervised Learning on Time-Series Data", in 2025 1st International Conference on Data Science and Geoinformatics (ICDSG),  November, 26-28, 2025, Bali, Indonesia (to be published in IEEEXplore).  
-6. M.A. Adhisetama, I. Soesanti, **S. Wibirama**, "Field-Weighted Citation Impact Measurement for Indonesian Scientific Publications Using GROBID and Zero-Shot Text Classification", in 2025 12th International Conference on Electrical Engineering, Computer Science and Informatics (EECSI), September, 25-26, 2025, Semarang, Indonesia (to be published in IEEEXplore).  
-7. A. Solaeman, S. A. I. Alfarozi, **S. Wibirama**, [“A Systematic Literature Review of Transfer Learning for Eye Tracking”](http://dx.doi.org/10.1109/ICADEIS65852.2025.10933367), in 2025 International Conference on Advancement in Data Science, E-learning and Information System: Integrating Data Science and Information System (ICADEIS 2025), February, 3-4, 2025, Bandung, Indonesia, pp. 1-7.
+1. K. A. Nugraha, I. Ardiyanto, **S. Wibirama**, "Lightweight Deep Learning Architectures for Classifying Textual Elements in Movie Posters", in 2025 5th International Conference on Intelligent Cybernetics Technology & Applications (ICICyTA), December, 17-19, 2025, Yogyakarta, Indonesia (to be published in IEEEXplore).
+2. R. Faurina, **S. Wibirama**, T. B. Adji, "EndoHMC: A Four-Level Hierarchical Multi-Task Framework for Comprehensive Gastrointestinal Endoscopy Analysis", in 2025 5th International Conference on Intelligent Cybernetics Technology & Applications (ICICyTA), December, 17-19, 2025, Yogyakarta, Indonesia (to be published in IEEEXplore).    
+3. K. A. Nugraha, I. Ardiyanto, **S. Wibirama**, "Automated Annotation of Eye Tracking Heatmaps Using Perception Encoder", in 2025 17th International Conference on Information Technology and Electrical Engineering (ICITEE), October, 20-21, 2025, Bangkok, Thailand (to be published in IEEEXplore).
+4. F. C. Permana, N. A. Setiawan, **S. Wibirama**, "A Review on Robustness of Deception Detection System Based on Eye Movement Features", in 2025 11th International HCI and UX Conference in Indonesia (CHIuXID 2025), December, 5-6, 2025, Bali, Indonesia (to be published in IEEEXplore).   
+5. M. F. F. Abdigusna, R. Wicaksono, **S. Wibirama**, "A Systematic Literature Review of Semi-Supervised Learning on Time-Series Data", in 2025 1st International Conference on Data Science and Geoinformatics (ICDSG),  November, 26-28, 2025, Bali, Indonesia (to be published in IEEEXplore).  
+6. F. M. Ahsan, I. Ardiyanto, **S. Wibirama**, "A Systematic Literature Review of Semi-Supervised Learning on Time-Series Data", in 2025 1st International Conference on Data Science and Geoinformatics (ICDSG),  November, 26-28, 2025, Bali, Indonesia (to be published in IEEEXplore).  
+7. M. A. Adhisetama, I. Soesanti, **S. Wibirama**, "Field-Weighted Citation Impact Measurement for Indonesian Scientific Publications Using GROBID and Zero-Shot Text Classification", in 2025 12th International Conference on Electrical Engineering, Computer Science and Informatics (EECSI), September, 25-26, 2025, Semarang, Indonesia (to be published in IEEEXplore).  
+8. A. Solaeman, S. A. I. Alfarozi, **S. Wibirama**, [“A Systematic Literature Review of Transfer Learning for Eye Tracking”](http://dx.doi.org/10.1109/ICADEIS65852.2025.10933367), in 2025 International Conference on Advancement in Data Science, E-learning and Information System: Integrating Data Science and Information System (ICADEIS 2025), February, 3-4, 2025, Bandung, Indonesia, pp. 1-7.
 
 ### 2024
 
