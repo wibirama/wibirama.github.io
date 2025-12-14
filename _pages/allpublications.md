@@ -89,13 +89,13 @@ Conference papers
 
 ### 2025
 
-1. A. Solaeman, S. A. I. Alfarozi, **S. Wibirama**, [“A Systematic Literature Review of Transfer Learning for Eye Tracking”](http://dx.doi.org/10.1109/ICADEIS65852.2025.10933367), in 2025 International Conference on Advancement in Data Science, E-learning and Information System: Integrating Data Science and Information System (ICADEIS 2025), February, 3-4, 2025, Bandung, Indonesia.
+1. A. Solaeman, S. A. I. Alfarozi, **S. Wibirama**, [“A Systematic Literature Review of Transfer Learning for Eye Tracking”](http://dx.doi.org/10.1109/ICADEIS65852.2025.10933367), in 2025 International Conference on Advancement in Data Science, E-learning and Information System: Integrating Data Science and Information System (ICADEIS 2025), February, 3-4, 2025, Bandung, Indonesia, pp. 1-7.
 
 ### 2024
 
 1. S. P. Rahayu, P. Insap Santosa, **S. Wibirama**, ["A Systematic Review of Gamification and Their Impact on E-commerce Applications"](http://dx.doi.org/10.1109/ICITSI65188.2024.10929338), in 2024 International Conference on Information Technology Systems and Innovation (ICITSI 2024), December, 12, 2024, Bandung, Indonesia. pp. 487-492.  
 
-2. S. Arizi, N. A. Setiawan, **S. Wibirama**, ["Systematic Literature Review: Implemented Motor Imagery Recognition Methods"](http://dx.doi.org/10.1109/AIMS61812.2024.10512960), in International Conference on Artificial Intelligence and Mechatronics System (AIMS 2024), February, 22-23, 2024, Bandung, Indonesia. 
+2. S. Arizi, N. A. Setiawan, **S. Wibirama**, ["Systematic Literature Review: Implemented Motor Imagery Recognition Methods"](http://dx.doi.org/10.1109/AIMS61812.2024.10512960), in International Conference on Artificial Intelligence and Mechatronics System (AIMS 2024), February, 22-23, 2024, Bandung, Indonesia, pp. 1-5. 
 
 3. F. A. Faiz, **S. Wibirama**, H. Nurlatifa, N. A. Setiawan, ["A Systematic Review of Deep Learning Approaches to Visual Saliency Prediction on Webpage Images"](https://dx.doi.org/10.1109/ICICoS62600.2024.10636890), in International Conference on Informatics and Computational Sciences 2024, July, 17-18, 2024, Semarang, Indonesia. pp. 479-484. 
 
@@ -107,15 +107,15 @@ Conference papers
    
 7. I. Mustamir, A. Nasikun, **S. Wibirama**, ["Design and Implementation of a Dashboard System for Monitoring Key Performance Indicators in Digitalized Higher Education Institutions: A Case Study"](http://dx.doi.org/10.1109/ICITEE62483.2024.10808311), in the 16th International Conference on Information Technology and Electrical Engineering (ICITEE 2024), October, 23-25, 2024, Bali, Indonesia. pp. 392-397.
 
-8. N. F. Qinthari, **S. Wibirama**, R. Ferdiana, ["A Systematic Literature Review of Personalized Gamification Research Methods"](http://dx.doi.org/10.1109/ISITDI62380.2024.10795944), in 2nd International Symposium on Information Technology and Digital Innovation: Creative Trends in Sustainable Information Technology Design and Innovation (ISITDI 2024), July, 24-25, 2024, Bukittinggi, Indonesia. pp: 185-190.
+8. N. F. Qinthari, **S. Wibirama**, R. Ferdiana, ["A Systematic Literature Review of Personalized Gamification Research Methods"](http://dx.doi.org/10.1109/ISITDI62380.2024.10795944), in 2nd International Symposium on Information Technology and Digital Innovation: Creative Trends in Sustainable Information Technology Design and Innovation (ISITDI 2024), July, 24-25, 2024, Bukittinggi, Indonesia, pp. 185-190.
    
-9. D. A. R. Kurniawan, S. A. I. Alfarozi, **S. Wibirama**, G. D. Putra, ["Anomaly Detection in Billing Data Using Voting Classification"](http://dx.doi.org/10.1109/SCOReD64708.2024.10872639), in 2024 IEEE 22nd Student Conference on Research and Development (SCOReD 2024), December, 19-20, 2024. Selangor, Malaysia. pp. 410-415.
+9. D. A. R. Kurniawan, S. A. I. Alfarozi, **S. Wibirama**, G. D. Putra, ["Anomaly Detection in Billing Data Using Voting Classification"](http://dx.doi.org/10.1109/SCOReD64708.2024.10872639), in 2024 IEEE 22nd Student Conference on Research and Development (SCOReD 2024), December, 19-20, 2024. Selangor, Malaysia, pp. 410-415.
 
-10. A.H. Fathiya, A. Nasikun, **S. Wibirama**, ["Impact of Gender and Information Layout on User Experience and Gaze Patterns in a Fitness and Diet App Interface"](https://dx.doi.org/10.1109/iBioMed62485.2024.10875820), in Proceedings of the 5th International Conference on Biomedical Engineering 2024 (IBIOMED 2024), October, 23-25, 2024. Bali, Indonesia. pp. 175-180. 
+10. A.H. Fathiya, A. Nasikun, **S. Wibirama**, ["Impact of Gender and Information Layout on User Experience and Gaze Patterns in a Fitness and Diet App Interface"](https://dx.doi.org/10.1109/iBioMed62485.2024.10875820), in Proceedings of the 5th International Conference on Biomedical Engineering 2024 (IBIOMED 2024), October, 23-25, 2024. Bali, Indonesia, pp. 175-180. 
 
-11. M. O. B. Wibowo, A. E. Permanasari, S. A. I. Alfarozi, **S. Wibirama**, ["Leveraging Bidirectional Long Short-Term Memory with Bayesian Optimization for Accurate Eye Movement Classification"](https://dx.doi.org/10.1109/iBioMed62485.2024.10875813), in Proceedings of the 5th International Conference on Biomedical Engineering 2024 (IBIOMED 2024), October, 23-25, 2024. Bali, Indonesia.
+11. M. O. B. Wibowo, A. E. Permanasari, S. A. I. Alfarozi, **S. Wibirama**, ["Leveraging Bidirectional Long Short-Term Memory with Bayesian Optimization for Accurate Eye Movement Classification"](https://dx.doi.org/10.1109/iBioMed62485.2024.10875813), in Proceedings of the 5th International Conference on Biomedical Engineering 2024 (IBIOMED 2024), October, 23-25, 2024, Bali, Indonesia, pp. 93-98.
 
-12. I. G. Wicaksana, I. M. Marantika, W. A. Budikusuma, R. Wicaksono, **S. Wibirama**, ["A Systematic Literature Review of Artificial Intelligence on Medical Imaging: COVID-19 and Tuberculosis Classification"](http://dx.doi.org/10.1109/iBioMed62485.2024.10875821),  in Proceedings of the 5th International Conference on Biomedical Engineering 2024 (IBIOMED 2024), October, 23-25, 2024. Bali, Indonesia. 
+12. I. G. Wicaksana, I. M. Marantika, W. A. Budikusuma, R. Wicaksono, **S. Wibirama**, ["A Systematic Literature Review of Artificial Intelligence on Medical Imaging: COVID-19 and Tuberculosis Classification"](http://dx.doi.org/10.1109/iBioMed62485.2024.10875821),  in Proceedings of the 5th International Conference on Biomedical Engineering 2024 (IBIOMED 2024), October, 23-25, 2024. Bali, Indonesia, pp. 99-104. 
 
 
 ### 2023
