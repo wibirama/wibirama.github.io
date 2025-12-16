@@ -9,7 +9,7 @@ redirect_from:
 
 :pushpin: All listed publications are aimed to disseminate research and scholarly technical reports. Apart from any fair dealing for the purposes of research, education, or self-study, all publications may only be reproduced, stored or transmitted online, in any form or by any means, with the prior permission in writing of the author. If you would like to read the PDF file, please drop me an email to: `sunu{at}ugm.ac.id`. 
 
-For more recent and updated list of publications, please visit [my Google Scholar profile](https://scholar.google.com/citations?user=xQI5ar8AAAAJ&hl=en&oi=ao), [my Scopus page](https://www.scopus.com/authid/detail.uri?authorId=26654457700), and [Sinta national metric](https://sinta.kemdikbud.go.id/authors/profile/44334).
+For more recent and updated list of publications, please visit [my Google Scholar profile](https://scholar.google.com/citations?user=xQI5ar8AAAAJ&hl=en&oi=ao), [my Scopus page](https://www.scopus.com/authid/detail.uri?authorId=26654457700), and [Sinta national metric](https://sinta.kemdiktisaintek.go.id/authors/profile/44334).
 
 {% include base_path %}
 
