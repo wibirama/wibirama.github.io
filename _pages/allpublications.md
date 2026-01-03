@@ -23,13 +23,15 @@ Journal articles
 ### Manuscript under review 
 1. Herlina, S. Murnani, A.A.A. Rizqi, R. Hartanto, I. Ardiyanto, and **S. Wibirama^**, "A Robust Object Selection Technique for Spontaneous Gaze-Based Interaction", submitted to IEEE Access (IF: 3.6).
 
-2. H. L. Sobrian, A.H. Fristiana, S.A.I. Alfarozi, A.E. Permanasari, and **S. Wibirama^**, "Reinforcement Learning in Time Series Analysis: A Systematic Literature Review", submitted to Korean Journal of Science (IF: 1.1).
+2. H. L. Sobrian, A. H. Fristiana, S. A. I. Alfarozi, A. E. Permanasari, and **S. Wibirama^**, "Reinforcement Learning in Time Series Analysis: A Systematic Literature Review", submitted to Vietnam Journal of Computer Science (IF: 1.1).
 
 3. H. Nurlatifa, T. B. Adji, I. Ardiyanto, G. L. Pritalia, and **S. Wibirama^**, "Time Series Classification on Eye Tracking for Identification of Sequential-Global Cognitive Styles", submitted to IEEE Access (IF: 3.6).
       
-4. A. R. Suhari, **S. Wibirama^**, K. A. Nugraha, A. H. Fristiana, and K. Woraratpanya, "Efficient Deep Learning Model with Fine-Tuning and Knowledge Distillation for Eye Movement Classification", submitted to Ain Shams Engineering Journal (IF: 5.9).
-   
- 
+4. A. R. Suhari, **S. Wibirama^**, K. A. Nugraha, A. H. Fristiana, and K. Woraratpanya, "Efficient Deep Learning Model with Fine-Tuning and Knowledge Distillation for Eye Movement Classification", submitted to Neural Computing and Applications (SJR: 1.102).
+
+5. I. Agustian, I. Ardiyanto, **S. Wibirama^**, "Efficient Crop-Weed Semantic Segmentation via Knowledge Distillation from DeepLabV3+ to Fast-SCNN", submitted to Green Technologies and Sustainability (SJR: 1.904).
+
+6. A. Q. Zulfa, S. A. I. Alfarozi, P. I. Santosa, K. A. Nugraha, S. Kusrohmaniah, K. Hamamoto, **S. Wibirama^**, "Examining Affective Responses to Digital Flashcards Using Text Mining, Kansei Engineering, and Hierarchical Clustering", submitted to User Modeling and User-Adapted Interaction (IF: 3.5).  
    
 
 ### Published articles in international journals (indexed by Scopus and/or Web of Science)
