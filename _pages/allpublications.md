@@ -29,11 +29,13 @@ Journal articles
       
 4. A. R. Suhari, **S. Wibirama^**, K. A. Nugraha, A. H. Fristiana, and K. Woraratpanya, "Efficient Deep Learning Model with Fine-Tuning and Knowledge Distillation for Eye Movement Classification", submitted to Neural Computing and Applications (SJR: 1.102).
 
-5. I. Agustian, I. Ardiyanto, **S. Wibirama^**, "Efficient Crop-Weed Semantic Segmentation via Knowledge Distillation from DeepLabV3+ to Fast-SCNN", submitted to Green Technologies and Sustainability (SJR: 1.904).
+5. I. Agustian, I. Ardiyanto, and **S. Wibirama^**, "Efficient Crop-Weed Semantic Segmentation via Knowledge Distillation from DeepLabV3+ to Fast-SCNN", submitted to Green Technologies and Sustainability (SJR: 1.904).
 
-6. A. Q. Zulfa, S. A. I. Alfarozi, P. I. Santosa, K. A. Nugraha, S. Kusrohmaniah, K. Hamamoto, **S. Wibirama^**, "Examining Affective Responses to Digital Flashcards Using Text Mining, Kansei Engineering, and Hierarchical Clustering", submitted to User Modeling and User-Adapted Interaction (IF: 3.5).  
+6. A. Q. Zulfa, S. A. I. Alfarozi, P. I. Santosa, K. A. Nugraha, S. Kusrohmaniah, K. Hamamoto, and **S. Wibirama^**, "Examining Affective Responses to Digital Flashcards Using Text Mining, Kansei Engineering, and Hierarchical Clustering", submitted to User Modeling and User-Adapted Interaction (IF: 3.5).
+
+7. S. Wiyono, T. B. Adji, H. A. Nugroho, and S. Wibirama, "Global Mean–Centered Correlation: A Variance-Reduced and Theoretically Grounded Similarity Measure for Sparse Data Environments", submitted to Information Sciences (IF: 6.8). 
+
    
-
 ### Published articles in international journals (indexed by Scopus and/or Web of Science)
 
 1. **S. Wibirama^**, M. A. Fikri, I. K. Aliza, K. A. Nugraha, S. A. I, Alfarozi, N. A. Setiawan, A. R. Suhari, and S. Kusrohmaniah, ["Cognitive Load Classification During Online Shopping Using Deep Learning on Time Series Eye Movement Indices"](https://doi.org/10.1016/j.array.2025.100669), Array, 2026 (IF: 4.5) **[in press]**.
