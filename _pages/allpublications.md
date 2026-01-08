@@ -38,7 +38,7 @@ Journal articles
    
 ### Published articles in international journals (indexed by Scopus and/or Web of Science)
 
-1. **S. Wibirama^**, M. A. Fikri, I. K. Aliza, K. A. Nugraha, S. A. I, Alfarozi, N. A. Setiawan, A. R. Suhari, and S. Kusrohmaniah, ["Cognitive Load Classification During Online Shopping Using Deep Learning on Time Series Eye Movement Indices"](https://doi.org/10.1016/j.array.2025.100669), Array, 2026 (IF: 4.5) **[in press]**.
+1. **S. Wibirama^**, M. A. Fikri, I. K. Aliza, K. A. Nugraha, S. A. I, Alfarozi, N. A. Setiawan, A. R. Suhari, and S. Kusrohmaniah, ["Cognitive Load Classification During Online Shopping Using Deep Learning on Time Series Eye Movement Indices"](https://doi.org/10.1016/j.array.2025.100669), Array, Vol. 29, pp. 100669: 1-16, 2026 (IF: 4.5).
       
 2. K. A. Nugraha, **S. Wibirama^**, and I. Ardiyanto, ["Fine-tuning Deep Neural Network for Saliency Prediction in Movie Poster Documents"](https://doi.org/10.1016/j.icte.2025.09.008), ICT Express, Vol.11, pp. 1181–1185, 2025 (IF: 4.2).
 
