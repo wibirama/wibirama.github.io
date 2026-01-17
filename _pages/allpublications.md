@@ -33,7 +33,7 @@ Journal articles
 
 6. A. Q. Zulfa, S. A. I. Alfarozi, P. I. Santosa, K. A. Nugraha, S. Kusrohmaniah, K. Hamamoto, and **S. Wibirama^**, "Examining Affective Responses to Digital Flashcards Using Text Mining, Kansei Engineering, and Hierarchical Clustering", submitted to User Modeling and User-Adapted Interaction (IF: 3.5).
 
-7. S. Wiyono, T. B. Adji, H. A. Nugroho, and **S. Wibirama**, "Global Mean–Centered Correlation: A Variance-Reduced and Theoretically Grounded Similarity Measure for Sparse Data Environments", submitted to Information Sciences (IF: 6.8).
+7. S. Wiyono, T. B. Adji^, H. A. Nugroho, and **S. Wibirama**, "Global Mean–Centered Correlation: A Variance-Reduced and Theoretically Grounded Similarity Measure for Sparse Data Environments", submitted to Information Sciences (IF: 6.8).
 
 8. A. Q. Zulfa, **S. Wibirama^**, S. A. I. Alfarozi, S. Kusrohmaniah, "AI for Multilingual Mental Health Recognition via Social Media Analysis: A Systematic Review", submitted to ACM Computing Surveys (IF: 28.0).  
 
