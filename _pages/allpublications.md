@@ -35,7 +35,11 @@ Journal articles
 
 7. S. Wiyono, T. B. Adji^, H. A. Nugroho, and **S. Wibirama**, "Global Mean–Centered Correlation: A Variance-Reduced and Theoretically Grounded Similarity Measure for Sparse Data Environments", submitted to Information Sciences (IF: 6.8).
 
-8. A. Q. Zulfa, **S. Wibirama^**, S. A. I. Alfarozi, S. Kusrohmaniah, "AI for Multilingual Mental Health Recognition via Social Media Analysis: A Systematic Review", submitted to ACM Computing Surveys (IF: 28.0).  
+8. A. Q. Zulfa, **S. Wibirama^**, S. A. I. Alfarozi, S. Kusrohmaniah, "AI for Multilingual Mental Health Recognition via Social Media Analysis: A Systematic Review", submitted to ACM Computing Surveys (IF: 28.0).
+
+9.  **S. Wibirama^**, S. A. I. Alfarozi, K. A. Nugraha, P. I. Santosa, Ardiansyah, A. R. Suhari, K. Hamamoto, "Robust Eye Movement Classification Using Fine-Tuned Deep Learning and Evolutionary Computation", submitted to International Journal of Information Technology (SJR: 0.717).
+
+10.  K. A. Nugraha, I. Ardiyanto, **S. Wibirama^**, "Dataset Diversity and Model Generalization in Saliency Prediction: A Systematic Literature Review", submitted to Expert Systems with Applications (IF: 7.5).  
 
    
 ### Published articles in international journals (indexed by Scopus and/or Web of Science)
