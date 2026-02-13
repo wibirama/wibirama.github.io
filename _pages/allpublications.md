@@ -42,7 +42,7 @@ Journal articles
 
 1.  I. Agustian, I. Ardiyanto, and **S. Wibirama^**, ["Efficient Crop-Weed Semantic Segmentation via Knowledge Distillation from DeepLabV3+ to Fast-SCNN"](https://doi.org/10.1016/j.grets.2026.100357), Green Technologies and Sustainability (SJR: 1.904), to be published.
    
-2. **S. Wibirama^**, S. A. I. Alfarozi, K. A. Nugraha, P. I. Santosa, Ardiansyah, A. R. Suhari, K. Hamamoto, "Robust Eye Movement Classification Using Fine-Tuned Deep Learning and Evolutionary Computation", to be published in International Journal of Information Technology (SJR: 0.717).
+2. **S. Wibirama^**, S. A. I. Alfarozi, K. A. Nugraha, P. I. Santosa, Ardiansyah, A. R. Suhari, K. Hamamoto, "Robust Eye Movement Classification Using Fine-Tuned Deep Learning and Evolutionary Computation", International Journal of Information Technology (SJR: 0.717), to be published..
 
 3. **S. Wibirama^**, M. A. Fikri, I. K. Aliza, K. A. Nugraha, S. A. I, Alfarozi, N. A. Setiawan, A. R. Suhari, and S. Kusrohmaniah, ["Cognitive Load Classification During Online Shopping Using Deep Learning on Time Series Eye Movement Indices"](https://doi.org/10.1016/j.array.2025.100669), Array, Vol. 29, pp. 100669: 1-16, 2026 (IF: 4.5).
       
