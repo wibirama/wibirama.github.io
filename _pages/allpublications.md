@@ -40,7 +40,7 @@ Journal articles
 
 1. **S. Wibirama^**, S. A. I. Alfarozi, K. A. Nugraha, P. I. Santosa, Ardiansyah, A. R. Suhari, K. Hamamoto, "Robust Eye Movement Classification Using Fine-Tuned Deep Learning and Evolutionary Computation", to be published in International Journal of Information Technology (SJR: 0.717), 2026.
       
-2. H. Nurlatifa, T. B. Adji, I. Ardiyanto, G. L. Pritalia, and **S. Wibirama^**, ["Time Series Classification on Eye Tracking for Identification of Sequential-Global Cognitive Styles"](https://doi.org/10.1109/ACCESS.2026.3668841), IEEE Access, 2026 (IF: 3.6).
+2. H. Nurlatifa, T. B. Adji, I. Ardiyanto, G. L. Pritalia, and **S. Wibirama^**, ["Time Series Classification on Eye Tracking for Identification of Sequential-Global Cognitive Styles"](https://doi.org/10.1109/ACCESS.2026.3668841), IEEE Access, Vol. 14, pp. 34676 - 34691, 2026 (IF: 3.6).
    
 3.  I. Agustian, I. Ardiyanto, and **S. Wibirama^**, ["Efficient Crop-Weed Semantic Segmentation via Knowledge Distillation from DeepLabV3+ to Fast-SCNN"](https://doi.org/10.1016/j.grets.2026.100357), Green Technologies and Sustainability, Vol. 4, No. 2, pp. 100357, 2026 (SJR: 1.904).
 
