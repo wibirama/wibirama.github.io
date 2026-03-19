@@ -31,7 +31,7 @@ Journal articles
 
 5. S. Wiyono, T. B. Adji^, H. A. Nugroho, and **S. Wibirama**, "Global Mean–Centered Correlation: A Variance-Reduced and Theoretically Grounded Similarity Measure for Sparse Data Environments", submitted to Information Sciences (IF: 6.8).
 
-6. A. Q. Zulfa, **S. Wibirama^**, S. A. I. Alfarozi, S. Kusrohmaniah, "AI for Multilingual Mental Health Recognition via Social Media Analysis: A Systematic Review", submitted to ACM Computing Surveys (IF: 28.0).
+6. A. Q. Zulfa, **S. Wibirama^**, S. A. I. Alfarozi, S. Kusrohmaniah, "AI for Multilingual Mental Health Recognition via Social Media Analysis: A Systematic Review", submitted to IEEE Access (IF: 3.6).
 
 7.  K. A. Nugraha, I. Ardiyanto, **S. Wibirama^**, "Dataset Diversity and Model Generalization in Saliency Prediction: A Systematic Literature Review", submitted to Expert Systems with Applications (IF: 7.5).  
 
