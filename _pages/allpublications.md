@@ -36,7 +36,7 @@ Journal articles
    
 ### Published articles in international journals (indexed by Scopus and/or Web of Science)
 
-1. S. Wiyono, T. B. Adji^, H. A. Nugroho, and **S. Wibirama**, "Global Mean–Centered Correlation: A Variance-Reduced and Theoretically Grounded Similarity Measure for Sparse Data Environments", to be published in Information Sciences (IF: 6.8).
+1. S. Wiyono, T. B. Adji^, H. A. Nugroho, and **S. Wibirama**, "Global Mean–Centered Correlation: A Variance-Reduced and Theoretically Grounded Similarity Measure for Sparse Data Environments", to be published in Information Sciences (IF: 6.8), 2026.
 
 2. **S. Wibirama^**, S. A. I. Alfarozi, K. A. Nugraha, P. I. Santosa, Ardiansyah, A. R. Suhari, K. Hamamoto, "Robust Eye Movement Classification Using Fine-Tuned Deep Learning and Evolutionary Computation", to be published in International Journal of Information Technology (SJR: 0.717), 2026.
       
