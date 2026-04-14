@@ -29,20 +29,20 @@ Journal articles
 
 4. A. Q. Zulfa, S. A. I. Alfarozi, P. I. Santosa, K. A. Nugraha, S. Kusrohmaniah, K. Hamamoto, and **S. Wibirama^**, "Examining Affective Responses to Digital Flashcards Using Text Mining, Kansei Engineering, and Hierarchical Clustering", submitted to User Modeling and User-Adapted Interaction (IF: 3.5).
 
-5. S. Wiyono, T. B. Adji^, H. A. Nugroho, and **S. Wibirama**, "Global Mean–Centered Correlation: A Variance-Reduced and Theoretically Grounded Similarity Measure for Sparse Data Environments", submitted to Information Sciences (IF: 6.8).
+5. A. Q. Zulfa, **S. Wibirama^**, S. A. I. Alfarozi, S. Kusrohmaniah, "AI for Multilingual Mental Health Recognition via Social Media Analysis: A Systematic Review", submitted to IEEE Access (IF: 3.6).
 
-6. A. Q. Zulfa, **S. Wibirama^**, S. A. I. Alfarozi, S. Kusrohmaniah, "AI for Multilingual Mental Health Recognition via Social Media Analysis: A Systematic Review", submitted to IEEE Access (IF: 3.6).
-
-7.  K. A. Nugraha, I. Ardiyanto, **S. Wibirama^**, "Dataset Diversity and Model Generalization in Saliency Prediction: A Systematic Literature Review", submitted to Expert Systems with Applications (IF: 7.5).  
+6. K. A. Nugraha, I. Ardiyanto, **S. Wibirama^**, "Dataset Diversity and Model Generalization in Saliency Prediction: A Systematic Literature Review", submitted to Expert Systems with Applications (IF: 7.5).  
 
    
 ### Published articles in international journals (indexed by Scopus and/or Web of Science)
 
-1. **S. Wibirama^**, S. A. I. Alfarozi, K. A. Nugraha, P. I. Santosa, Ardiansyah, A. R. Suhari, K. Hamamoto, "Robust Eye Movement Classification Using Fine-Tuned Deep Learning and Evolutionary Computation", to be published in International Journal of Information Technology (SJR: 0.717), 2026.
+1. S. Wiyono, T. B. Adji^, H. A. Nugroho, and **S. Wibirama**, "Global Mean–Centered Correlation: A Variance-Reduced and Theoretically Grounded Similarity Measure for Sparse Data Environments", to be published in Information Sciences (IF: 6.8).
+
+2. **S. Wibirama^**, S. A. I. Alfarozi, K. A. Nugraha, P. I. Santosa, Ardiansyah, A. R. Suhari, K. Hamamoto, "Robust Eye Movement Classification Using Fine-Tuned Deep Learning and Evolutionary Computation", to be published in International Journal of Information Technology (SJR: 0.717), 2026.
       
-2. H. Nurlatifa, T. B. Adji, I. Ardiyanto, G. L. Pritalia, and **S. Wibirama^**, ["Time Series Classification on Eye Tracking for Identification of Sequential-Global Cognitive Styles"](https://doi.org/10.1109/ACCESS.2026.3668841), IEEE Access, Vol. 14, pp. 34676 - 34691, 2026 (IF: 3.6).
+3. H. Nurlatifa, T. B. Adji, I. Ardiyanto, G. L. Pritalia, and **S. Wibirama^**, ["Time Series Classification on Eye Tracking for Identification of Sequential-Global Cognitive Styles"](https://doi.org/10.1109/ACCESS.2026.3668841), IEEE Access, Vol. 14, pp. 34676 - 34691, 2026 (IF: 3.6).
    
-3.  I. Agustian, I. Ardiyanto, and **S. Wibirama^**, ["Efficient Crop-Weed Semantic Segmentation via Knowledge Distillation from DeepLabV3+ to Fast-SCNN"](https://doi.org/10.1016/j.grets.2026.100357), Green Technologies and Sustainability, Vol. 4, No. 2, pp. 100357, 2026 (SJR: 1.904).
+4.  I. Agustian, I. Ardiyanto, and **S. Wibirama^**, ["Efficient Crop-Weed Semantic Segmentation via Knowledge Distillation from DeepLabV3+ to Fast-SCNN"](https://doi.org/10.1016/j.grets.2026.100357), Green Technologies and Sustainability, Vol. 4, No. 2, pp. 100357, 2026 (SJR: 1.904).
 
 5. **S. Wibirama^**, M. A. Fikri, I. K. Aliza, K. A. Nugraha, S. A. I, Alfarozi, N. A. Setiawan, A. R. Suhari, and S. Kusrohmaniah, ["Cognitive Load Classification During Online Shopping Using Deep Learning on Time Series Eye Movement Indices"](https://doi.org/10.1016/j.array.2025.100669), Array, Vol. 29, pp. 100669: 1-16, 2026 (IF: 4.5).
       
