@@ -38,7 +38,7 @@ Journal articles
 
 1. **S. Wibirama^**, S. A. I. Alfarozi, K. A. Nugraha, P. I. Santosa, Ardiansyah, A. R. Suhari, K. Hamamoto, "Robust Eye Movement Classification Using Fine-Tuned Deep Learning and Evolutionary Computation", to be published in International Journal of Information Technology (SJR: 0.717), 2026.
 
-2. S. Wiyono, T. B. Adji^, H. A. Nugroho, and **S. Wibirama**, ["Global Mean–Centered Correlation: A Variance-Reduced and Theoretically Grounded Similarity Measure for Sparse Data Environments"](https://doi.org/10.1016/j.ins.2026.123502), to be published in Information Sciences (IF: 6.8), 2026.
+2. S. Wiyono, T. B. Adji^, H. A. Nugroho, and **S. Wibirama**, ["Global Mean–Centered Correlation: A Variance-Reduced and Theoretically Grounded Similarity Measure for Sparse Data Environments"](https://doi.org/10.1016/j.ins.2026.123502), Information Sciences, Vol. 749, No. 123502, 2026 (IF: 6.8).
       
 3. H. Nurlatifa, T. B. Adji, I. Ardiyanto, G. L. Pritalia, and **S. Wibirama^**, ["Time Series Classification on Eye Tracking for Identification of Sequential-Global Cognitive Styles"](https://doi.org/10.1109/ACCESS.2026.3668841), IEEE Access, Vol. 14, pp. 34676 - 34691, 2026 (IF: 3.6).
    
