@@ -36,7 +36,7 @@ Journal articles
    
 ### Published articles in international journals (indexed by Scopus and/or Web of Science)
 
-1. **S. Wibirama^**, S. A. I. Alfarozi, K. A. Nugraha, P. I. Santosa, Ardiansyah, A. R. Suhari, K. Hamamoto, "Robust Eye Movement Classification Using Fine-Tuned Deep Learning and Evolutionary Computation", to be published in International Journal of Information Technology (SJR: 0.717), 2026.
+1. **S. Wibirama^**, S. A. I. Alfarozi, K. A. Nugraha, P. I. Santosa, Ardiansyah, A. R. Suhari, K. Hamamoto, "Robust Eye Movement Classification Using Fine-Tuned Deep Learning and Evolutionary Computation", International Journal of Information Technology, 2026 (SJR: 0.717), **in press**.
 
 2. S. Wiyono, T. B. Adji^, H. A. Nugroho, and **S. Wibirama**, ["Global Mean–Centered Correlation: A Variance-Reduced and Theoretically Grounded Similarity Measure for Sparse Data Environments"](https://doi.org/10.1016/j.ins.2026.123502), Information Sciences, Vol. 749, No. 123502, 2026 (IF: 6.8).
       
