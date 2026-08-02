@@ -98,8 +98,10 @@ Conference papers
 ======
 
 ### 2026
-1. Z. Rahmadiansyah, A. A. A. Rizqi, S. Wibirama, ["Explainable Artificial Intelligence (XAI) and Human Cognitive Factors: A Systematic Literature Review of Domains, Techniques, and Impacts"](https://doi-org.ezproxy.ugm.ac.id/10.1109/ICCRAIDS67816.2026.11519692), in 2026 International Conference on Current Research in Artificial Intelligence and Data Science (ICCRAIDS), April, 10-11, 2026, Banyumas, Indonesia, pp. 1-6.
-2. A.Q. Zulfa, S. A. I. Alfarozi, ["MentalBERT with Contrastive Learning for Mental Disorder Classification from Social Media: A Comparative and Explainable Study"](https://doi-org.ezproxy.ugm.ac.id/10.1109/ICCRAIDS67816.2026.11519647), in 2026 International Conference on Current Research in Artificial Intelligence and Data Science (ICCRAIDS), April, 10-11, 2026, Banyumas, Indonesia, pp. 1-6. 
+1. T. Krisdiyanto, I. Ardiyanto, **S. Wibirama**, "A Systematic Review of Deep Learning Approaches to Drowning Detection" (https://doi-org.ezproxy.ugm.ac.id/10.1109/ICCRAIDS67816.2026.11519744), in 2026 International Conference on Current Research in Artificial Intelligence and Data Science (ICCRAIDS), April, 10-11, 2026, Banyumas, Indonesia, pp. 1-7.
+2. T.E. Prabowo, W. Najib, **S. Wibirama**, ["Explainable AI for Eye Tracking-Based Prediction: A Systematic Literature Review"](https://doi-org.ezproxy.ugm.ac.id/10.1109/ICCRAIDS67816.2026.11519747), in 2026 International Conference on Current Research in Artificial Intelligence and Data Science (ICCRAIDS), April, 10-11, 2026, Banyumas, Indonesia, pp. 1-7.
+3. Z. Rahmadiansyah, A. A. A. Rizqi, **S. Wibirama**, ["Explainable Artificial Intelligence (XAI) and Human Cognitive Factors: A Systematic Literature Review of Domains, Techniques, and Impacts"](https://doi-org.ezproxy.ugm.ac.id/10.1109/ICCRAIDS67816.2026.11519692), in 2026 International Conference on Current Research in Artificial Intelligence and Data Science (ICCRAIDS), April, 10-11, 2026, Banyumas, Indonesia, pp. 1-6.
+4. A.Q. Zulfa, S. A. I. Alfarozi, S. Kusrohmaniah, **S. Wibirama** ["MentalBERT with Contrastive Learning for Mental Disorder Classification from Social Media: A Comparative and Explainable Study"](https://doi-org.ezproxy.ugm.ac.id/10.1109/ICCRAIDS67816.2026.11519647), in 2026 International Conference on Current Research in Artificial Intelligence and Data Science (ICCRAIDS), April, 10-11, 2026, Banyumas, Indonesia, pp. 1-6. 
 
 ### 2025
 
