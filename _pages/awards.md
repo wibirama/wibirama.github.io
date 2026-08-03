@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-### **ACQUIRED RESEARCH GRANTS (2015-2025)**
+### **ACQUIRED RESEARCH GRANTS**
 
 | **Year** | **Research Title** | **Sources of Funding** |
 |----------|--------------------|-------------------------|
