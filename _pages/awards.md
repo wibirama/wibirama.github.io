@@ -31,7 +31,8 @@ redirect_from:
 | 2024 | Development of a cognitive style classification method based on deep learning and eye tracking for adaptive e-learning **(Principal investigator).** | Ministry of Education, Culture, Research, and Technology, Indonesia |
 | 2024 | Identification of user experience and cognitive load based on eye tracking technology and artificial intelligence in online shopping activities **(Principal investigator).** | Ministry of Education, Culture, Research, and Technology, Indonesia |
 | 2025-2026 | Artificial intelligence-based user experience analysis and mental disorder detection in digital content to strengthen human resource development **(Principal investigator).** | Ministry of Higher Education, Science, and Technology, Indonesia |
-| 2026-2027 | Identification of Cognitive Style Based Using Artificial Intelligence on Online Learning to Strengthen Education and Human Resources **(Principal investigator).** | Ministry of Higher Education, Science, and Technology, Indonesia |
+| 2025-2026 | Development of a near zero-energy building energy management system based on digital twin-virtual reality and artificial intelligence technology **(Co-investigator).** | Ministry of Higher Education, Science, and Technology, Indonesia |
+| 2026-2027 | Identification of cognitive style based using artificial intelligence on online learning to strengthen education and human resources **(Principal investigator).** | Ministry of Higher Education, Science, and Technology, Indonesia |
 
 
 ---
