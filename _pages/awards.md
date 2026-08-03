@@ -30,8 +30,8 @@ redirect_from:
 | 2024 | Improving the performance of deep learning-based eye movement classification with hyperparameter optimization in touchless assistive technology **(Principal investigator).** | Ministry of Education, Culture, Research, and Technology, Indonesia |
 | 2024 | Development of a cognitive style classification method based on deep learning and eye tracking for adaptive e-learning **(Principal investigator).** | Ministry of Education, Culture, Research, and Technology, Indonesia |
 | 2024 | Identification of user experience and cognitive load based on eye tracking technology and artificial intelligence in online shopping activities **(Principal investigator).** | Ministry of Education, Culture, Research, and Technology, Indonesia |
-| 2025 | Artificial intelligence-based user experience analysis and mental disorder detection in digital content to strengthen human resource development **(Principal investigator).** | Ministry of Higher Education, Science, and Technology, Indonesia |
-| 2026 | Identification of Cognitive Style Based Using Artificial Intelligence on Online Learning to Strengthn Education and Human Resources **(Principal investigator).** | Ministry of Higher Education, Science, and Technology, Indonesia |
+| 2025-2026 | Artificial intelligence-based user experience analysis and mental disorder detection in digital content to strengthen human resource development **(Principal investigator).** | Ministry of Higher Education, Science, and Technology, Indonesia |
+| 2026-2027 | Identification of Cognitive Style Based Using Artificial Intelligence on Online Learning to Strengthen Education and Human Resources **(Principal investigator).** | Ministry of Higher Education, Science, and Technology, Indonesia |
 
 
 ---
