@@ -47,6 +47,9 @@ redirect_from:
 | 2016 | LPDP Award for International Scientific Publication, Ministry of Finance, Indonesia.<br> - Incentive for International Publication, Badan Penerbit dan Publikasi, Universitas Gadjah Mada.<br> - Incentive for High Impact-Factor Publication, Badan Penerbit dan Publikasi, Universitas Gadjah Mada.<br> - Erasmus+ Teaching Mobility Award, Eramus Mundus, European Union.<br> - IEEE Best Paper Award, The 2016 IEEE International Symposium on Electronics and Smart Devices (ISESD 2016), Bandung, Indonesia. |
 | 2017 | Yarsi Researcher Award 2017 – Runner up of Indonesian Young Researcher in Information Technology ([more info](http://sunu.staff.ugm.ac.id/2017/05/08/8-may-2017-dr-sunu-wibirama-has-been-awarded-yra2017/)) |
 | 2018 | The 3rd Faculty Member of UGM with The Best Performance ([news in UGM’s official website](https://ugm.ac.id/id/berita/17402-120.penghargaan.untuk.insan.berprestasi.ugm.2018) \| [more information](http://sunu.staff.ugm.ac.id/2018/11/20/20-november-2018-dr-sunu-wibirama-has-been-awarded-faculty-member-with-the-best-performance/)) |
+| 2020 | National Award for High-Impact Scientific Article in Health and Medicine, The Ministry of Research and Technology/National Research and Innovation Agency, Indonesia. |
+
+
 
 
 
