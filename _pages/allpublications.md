@@ -34,7 +34,7 @@ Journal articles
    
 ### Published articles in international journals (indexed by Scopus and/or Web of Science)
 
-1. A. Q. Zulfa, **S. Wibirama^**, S. A. I. Alfarozi, S. Kusrohmaniah, ["AI for Multilingual Mental Health Recognition via Social Media Analysis: A Systematic Review"](https://doi.org/10.1016/j.array.2026.101373), Array, 2026 (IF: 5.3), **in press**.
+1. A. Q. Zulfa, **S. Wibirama^**, S. A. I. Alfarozi, S. Kusrohmaniah, ["AI for Multilingual Mental Health Recognition via Social Media Analysis: A Systematic Review"](https://doi.org/10.1016/j.array.2026.101373), Array, Vol. 32, pp. 101373:1-24, 2026 (IF: 5.3).
 
 2. **S. Wibirama^**, S. A. I. Alfarozi, K. A. Nugraha, P. I. Santosa, Ardiansyah, A. R. Suhari, K. Hamamoto, "Robust Eye Movement Classification Using Fine-Tuned Deep Learning and Evolutionary Computation", International Journal of Information Technology, 2026 (SJR: 0.717), **in press**.
 
