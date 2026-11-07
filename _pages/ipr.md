@@ -32,14 +32,14 @@ Below are a list of intellectual property rights (IPRs) of various software buil
 8. **SINOMA: Self-Early Screening System for Mouth Cancer based on Machine Learning.**  
    Registration Number: EC00202158251, 27 October 2021. [See Google Playstore Page.](https://play.google.com/store/apps/details?id=com.sinoma.app)
 
-9. **EyeMovClassificator: Application of Eye Movements Classification Based on Artificial Intelligence.**  
-   Registration Number: EC002022103733, 12 December 2022.
+9. **EyeMovClassificator: Application of Eye Movements Classification Based on Artificial Intelligence.** \
+    Registration Number: EC002022103733, 12 December 2022.
 
-10. **EYEFATA: Utilizing Eye Trackers and Heart Rate Sensors to Detect Individual Fitness Levels.**
+11. **EYEFATA: Utilizing Eye Trackers and Heart Rate Sensors to Detect Individual Fitness Levels.**\
     Registration Number: EC002024254345, 17 December 2024.
 
-12. **Hanamy: Heart Anatomy Learning App**
+13. **Hanamy: Heart Anatomy Learning App.**\
     Registration Number: EC002024217115, 1 November 2024.
 
-14. **Eyetalk2u: Eye-Tracking Glasses to Assist Post-Surgery Patient Communication**
+15. **Eyetalk2u: Eye-Tracking Glasses to Assist Post-Surgery Patient Communication.**\
     Registration Number: EC002025212051, 12 December 2025.
