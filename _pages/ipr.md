@@ -35,3 +35,11 @@ Below are a list of intellectual property rights (IPRs) of various software buil
 9. **EyeMovClassificator: Application of Eye Movements Classification Based on Artificial Intelligence.**  
    Registration Number: EC002022103733, 12 December 2022.
 
+10. **EYEFATA: Utilizing Eye Trackers and Heart Rate Sensors to Detect Individual Fitness Levels.**  
+   Registration Number: EC002024254345, 17 December 2024.
+
+11. **Hanamy: Heart Anatomy Learning App**
+   Registration Number: EC002024217115, 1 November 2024.
+
+12. **Eyetalk2u: Eye-Tracking Glasses to Assist Post-Surgery Patient Communication**
+   Registration Number: EC002025212051, 12 December 2025.
